@@ -1,0 +1,3579 @@
+{
+    "userInfo": {
+        "institute": false,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "ip": "2409:40d0:3015:9e14:1ac:2fde:5496:a4dc",
+        "showPatentCitations": true,
+        "showGet802Link": false,
+        "isReadAndPublish": false
+    },
+    "records": [
+        {
+            "authors": [
+                {
+                    "preferredName": "Zongwei Zhou",
+                    "normalizedName": "Z. Zhou",
+                    "firstName": "Zongwei",
+                    "lastName": "Zhou",
+                    "searchablePreferredName": "Zongwei Zhou",
+                    "id": 37086245768
+                },
+                {
+                    "preferredName": "Md Mahfuzur Rahman Siddiquee",
+                    "normalizedName": "M. M. R. Siddiquee",
+                    "firstName": "Md Mahfuzur Rahman",
+                    "lastName": "Siddiquee",
+                    "searchablePreferredName": "Md Mahfuzur Rahman Siddiquee",
+                    "id": 37087186068
+                },
+                {
+                    "preferredName": "Nima Tajbakhsh",
+                    "normalizedName": "N. Tajbakhsh",
+                    "firstName": "Nima",
+                    "lastName": "Tajbakhsh",
+                    "searchablePreferredName": "Nima Tajbakhsh",
+                    "id": 37697976300
+                },
+                {
+                    "preferredName": "Jianming Liang",
+                    "normalizedName": "J. Liang",
+                    "firstName": "Jianming",
+                    "lastName": "Liang",
+                    "searchablePreferredName": "Jianming Liang",
+                    "id": 37085461513
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "42",
+            "publicationDate": "June 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/TMI.2019.2959609",
+            "pdfSize": "3633",
+            "ephemera": false,
+            "articleNumber": "8932614",
+            "documentLink": "/document/8932614/",
+            "articleTitle": "UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation",
+            "isNumber": "9106594",
+            "volume": "39",
+            "issue": "6",
+            "endPage": "1867",
+            "startPage": "1856",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=42",
+            "showHtml": true,
+            "citationCount": 2275,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8932614/citations?tabFilter=papers",
+            "downloadCount": 21285,
+            "htmlLink": "/document/8932614/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=42&title=UNet%2B%2B%3A+Redesigning+Skip+Connections+to+Exploit+Multiscale+Features+in+Image+Segmentation&isbn=null&publicationDate=June+2020&author=Zongwei+Zhou%3B+Md+Mahfuzur+Rahman+Siddiquee%3B+Nima+Tajbakhsh%3B+Jianming+Liang&ContentID=10.1109/TMI.2019.2959609&orderBeanReset=true&startPage=1856&endPage=1867&volumeNum=39&issueNum=6",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8932614",
+            "displayPublicationTitle": "IEEE Transactions on Medical Imaging",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Medical Imaging",
+            "abstract": "The state-of-the-art models for medical image segmentation are variants of U-Net and fully convolutional networks (FCN). Despite their success, these models have two limitations: (1) their optimal [::depth::] is apriori unknown, requiring extensive architecture search or inefficient ensemble of models of varying [::depths::]; and (2) their skip connections impose an unnecessarily restrictive fusio...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Carlos Campos",
+                    "normalizedName": "C. Campos",
+                    "firstName": "Carlos",
+                    "lastName": "Campos",
+                    "searchablePreferredName": "Carlos Campos",
+                    "id": 38273781200
+                },
+                {
+                    "preferredName": "Richard Elvira",
+                    "normalizedName": "R. Elvira",
+                    "firstName": "Richard",
+                    "lastName": "Elvira",
+                    "searchablePreferredName": "Richard Elvira",
+                    "id": 37087322668
+                },
+                {
+                    "preferredName": "Juan J. Gómez Rodríguez",
+                    "normalizedName": "J. J. G. Rodríguez",
+                    "firstName": "Juan J. Gómez",
+                    "lastName": "Rodríguez",
+                    "searchablePreferredName": "Juan J. Gómez Rodríguez",
+                    "id": 37089176100
+                },
+                {
+                    "preferredName": "José M. M. Montiel",
+                    "normalizedName": "J. M. M. Montiel",
+                    "firstName": "José M.",
+                    "lastName": "M. Montiel",
+                    "searchablePreferredName": "José M. M. Montiel",
+                    "id": 37085812385
+                },
+                {
+                    "preferredName": "Juan D. Tardós",
+                    "normalizedName": "J. D. Tardós",
+                    "firstName": "Juan",
+                    "lastName": "D. Tardós",
+                    "searchablePreferredName": "Juan D. Tardós",
+                    "id": 37089356305
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "promotional",
+                "message": "Freely Available from IEEE"
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "8860",
+            "publicationDate": "Dec. 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/TRO.2021.3075644",
+            "pdfSize": "2574",
+            "ephemera": false,
+            "articleNumber": "9440682",
+            "documentLink": "/document/9440682/",
+            "articleTitle": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual–Inertial, and Multimap SLAM",
+            "isNumber": "9634176",
+            "volume": "37",
+            "issue": "6",
+            "endPage": "1890",
+            "startPage": "1874",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=8860",
+            "showHtml": true,
+            "citationCount": 1993,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9440682/citations?tabFilter=papers",
+            "downloadCount": 52964,
+            "htmlLink": "/document/9440682/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=8860&title=ORB-SLAM3%3A+An+Accurate+Open-Source+Library+for+Visual%2C+Visual%E2%80%93Inertial%2C+and+Multimap+SLAM&isbn=null&publicationDate=Dec.+2021&author=Carlos+Campos%3B+Richard+Elvira%3B+Juan+J.+G%C3%B3mez+Rodr%C3%ADguez%3B+Jos%C3%A9+M.+M.+Montiel%3B+Juan+D.+Tard%C3%B3s&ContentID=10.1109/TRO.2021.3075644&orderBeanReset=true&startPage=1874&endPage=1890&volumeNum=37&issueNum=6",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9440682",
+            "displayPublicationTitle": "IEEE Transactions on Robotics",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Robotics",
+            "abstract": "This article presents ORB-SLAM3, the first system able to perform visual, visual-inertial and multimap SLAM with monocular, stereo and RGB-D cameras, using pin-hole and fisheye lens models. The first main novelty is a tightly integrated visual-inertial SLAM system that fully relies on maximum a posteriori ([::MAP::]) estimation, even during IMU initialization, resulting in real-time robust operati...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual–Inertial, and Multimap SLAM",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Guillermo Gallego",
+                    "normalizedName": "G. Gallego",
+                    "firstName": "Guillermo",
+                    "lastName": "Gallego",
+                    "searchablePreferredName": "Guillermo Gallego",
+                    "id": 37426725000
+                },
+                {
+                    "preferredName": "Tobi Delbrück",
+                    "normalizedName": "T. Delbrück",
+                    "firstName": "Tobi",
+                    "lastName": "Delbrück",
+                    "searchablePreferredName": "Tobi Delbrück",
+                    "id": 37269976700
+                },
+                {
+                    "preferredName": "Garrick Orchard",
+                    "normalizedName": "G. Orchard",
+                    "firstName": "Garrick",
+                    "lastName": "Orchard",
+                    "searchablePreferredName": "Garrick Orchard",
+                    "id": 37312579800
+                },
+                {
+                    "preferredName": "Chiara Bartolozzi",
+                    "normalizedName": "C. Bartolozzi",
+                    "firstName": "Chiara",
+                    "lastName": "Bartolozzi",
+                    "searchablePreferredName": "Chiara Bartolozzi",
+                    "id": 37681790700
+                },
+                {
+                    "preferredName": "Brian Taba",
+                    "normalizedName": "B. Taba",
+                    "firstName": "Brian",
+                    "lastName": "Taba",
+                    "searchablePreferredName": "Brian Taba",
+                    "id": 37085468987
+                },
+                {
+                    "preferredName": "Andrea Censi",
+                    "normalizedName": "A. Censi",
+                    "firstName": "Andrea",
+                    "lastName": "Censi",
+                    "searchablePreferredName": "Andrea Censi",
+                    "id": 37398994000
+                },
+                {
+                    "preferredName": "Stefan Leutenegger",
+                    "normalizedName": "S. Leutenegger",
+                    "firstName": "Stefan",
+                    "lastName": "Leutenegger",
+                    "searchablePreferredName": "Stefan Leutenegger",
+                    "id": 37698403100
+                },
+                {
+                    "preferredName": "Andrew J. Davison",
+                    "normalizedName": "A. J. Davison",
+                    "firstName": "Andrew J.",
+                    "lastName": "Davison",
+                    "searchablePreferredName": "Andrew J. Davison",
+                    "id": 37293837200
+                },
+                {
+                    "preferredName": "Jörg Conradt",
+                    "normalizedName": "J. Conradt",
+                    "firstName": "Jörg",
+                    "lastName": "Conradt",
+                    "searchablePreferredName": "Jörg Conradt",
+                    "id": 37326140900
+                },
+                {
+                    "preferredName": "Kostas Daniilidis",
+                    "normalizedName": "K. Daniilidis",
+                    "firstName": "Kostas",
+                    "lastName": "Daniilidis",
+                    "searchablePreferredName": "Kostas Daniilidis",
+                    "id": 37270623200
+                },
+                {
+                    "preferredName": "Davide Scaramuzza",
+                    "normalizedName": "D. Scaramuzza",
+                    "firstName": "Davide",
+                    "lastName": "Scaramuzza",
+                    "searchablePreferredName": "Davide Scaramuzza",
+                    "id": 37397688400
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "34",
+            "publicationDate": "1 Jan. 2022",
+            "publicationYear": "2022",
+            "doi": "10.1109/TPAMI.2020.3008413",
+            "pdfSize": "4865",
+            "ephemera": false,
+            "articleNumber": "9138762",
+            "documentLink": "/document/9138762/",
+            "articleTitle": "Event-Based Vision: A Survey",
+            "isNumber": "9639876",
+            "volume": "44",
+            "issue": "1",
+            "endPage": "180",
+            "startPage": "154",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=34",
+            "showHtml": true,
+            "citationCount": 1014,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9138762/citations?tabFilter=papers",
+            "downloadCount": 46593,
+            "htmlLink": "/document/9138762/",
+            "vj": false,
+            "showAlgorithm": false,
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9138762",
+            "displayPublicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "abstract": "Event cameras are bio-inspired sensors that differ from conventional frame cameras: Instead of capturing images at a fixed rate, they asynchronously measure per-pixel brightness changes, and output a stream of events that encode the time, location and sign of the brightness changes. Event cameras offer attractive properties compared to traditional cameras: high temporal resolution (in the order of...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Event-Based Vision: A Survey",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Lvmin Zhang",
+                    "normalizedName": "L. Zhang",
+                    "firstName": "Lvmin",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Lvmin Zhang",
+                    "id": 37086567970
+                },
+                {
+                    "preferredName": "Anyi Rao",
+                    "normalizedName": "A. Rao",
+                    "firstName": "Anyi",
+                    "lastName": "Rao",
+                    "searchablePreferredName": "Anyi Rao",
+                    "id": 37088454776
+                },
+                {
+                    "preferredName": "Maneesh Agrawala",
+                    "normalizedName": "M. Agrawala",
+                    "firstName": "Maneesh",
+                    "lastName": "Agrawala",
+                    "searchablePreferredName": "Maneesh Agrawala",
+                    "id": 37282718200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "10376473",
+            "publicationDate": "1-6 Oct. 2023",
+            "publicationYear": "2023",
+            "doi": "10.1109/ICCV51070.2023.00355",
+            "pdfSize": "5716",
+            "ephemera": false,
+            "articleNumber": "10377881",
+            "documentLink": "/document/10377881/",
+            "articleTitle": "Adding Conditional Control to Text-to-Image Diffusion Models",
+            "isNumber": "10376477",
+            "endPage": "3824",
+            "startPage": "3813",
+            "publicationLink": "/xpl/conhome/10376473/proceeding",
+            "showHtml": true,
+            "citationCount": 960,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/10377881/citations?tabFilter=papers",
+            "multiMediaLink": "/document/10377881/media",
+            "downloadCount": 1269,
+            "htmlLink": "/document/10377881/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Adding+Conditional+Control+to+Text-to-Image+Diffusion+Models&isbn=null&publicationDate=1-6+Oct.+2023&author=Lvmin+Zhang%3B+Anyi+Rao%3B+Maneesh+Agrawala&ContentID=10.1109/ICCV51070.2023.00355&orderBeanReset=true&startPage=3813&endPage=3824&proceedingName=2023+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10377881",
+            "displayPublicationTitle": "2023 IEEE/CVF International Conference on Computer Vision (ICCV)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2023 IEEE/CVF International Conference on Computer Vision (ICCV)",
+            "abstract": "We present ControlNet, a neural network architecture to add spatial conditioning controls to large, pretrained text-to-image diffusion models. ControlNet locks the production-ready large diffusion models, and reuses their deep and robust encoding layers pretrained with billions of images as a strong backbone to learn a diverse set of conditional controls. The neural architecture is connected with ...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Adding Conditional Control to Text-to-Image Diffusion Models",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "René Ranftl",
+                    "normalizedName": "R. Ranftl",
+                    "firstName": "René",
+                    "lastName": "Ranftl",
+                    "searchablePreferredName": "René Ranftl",
+                    "id": 38252786800
+                },
+                {
+                    "preferredName": "Alexey Bochkovskiy",
+                    "normalizedName": "A. Bochkovskiy",
+                    "firstName": "Alexey",
+                    "lastName": "Bochkovskiy",
+                    "searchablePreferredName": "Alexey Bochkovskiy",
+                    "id": 37089017855
+                },
+                {
+                    "preferredName": "Vladlen Koltun",
+                    "normalizedName": "V. Koltun",
+                    "firstName": "Vladlen",
+                    "lastName": "Koltun",
+                    "searchablePreferredName": "Vladlen Koltun",
+                    "id": 37739465900
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9709627",
+            "publicationDate": "10-17 Oct. 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/ICCV48922.2021.01196",
+            "pdfSize": "4890",
+            "ephemera": false,
+            "articleNumber": "9711226",
+            "documentLink": "/document/9711226/",
+            "articleTitle": "Vision Transformers for Dense Prediction",
+            "isNumber": "9709628",
+            "endPage": "12168",
+            "startPage": "12159",
+            "publicationLink": "/xpl/conhome/9709627/proceeding",
+            "showHtml": true,
+            "citationCount": 949,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9711226/citations?tabFilter=papers",
+            "downloadCount": 1552,
+            "htmlLink": "/document/9711226/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Vision+Transformers+for+Dense+Prediction&isbn=null&publicationDate=10-17+Oct.+2021&author=Ren%C3%A9+Ranftl%3B+Alexey+Bochkovskiy%3B+Vladlen+Koltun&ContentID=10.1109/ICCV48922.2021.01196&orderBeanReset=true&startPage=12159&endPage=12168&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9711226",
+            "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+            "abstract": "We introduce dense prediction transformers, an architecture that leverages vision transformers in place of convolutional networks as a backbone for dense prediction tasks. We assemble tokens from various stages of the vision transformer into image-like representations at various resolutions and progressively combine them into full-resolution predictions using a convolutional decoder. The transform...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Vision Transformers for Dense Prediction",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Zhihao Wang",
+                    "normalizedName": "Z. Wang",
+                    "firstName": "Zhihao",
+                    "lastName": "Wang",
+                    "searchablePreferredName": "Zhihao Wang",
+                    "id": 37088956549
+                },
+                {
+                    "preferredName": "Jian Chen",
+                    "normalizedName": "J. Chen",
+                    "firstName": "Jian",
+                    "lastName": "Chen",
+                    "searchablePreferredName": "Jian Chen",
+                    "id": 38560063200
+                },
+                {
+                    "preferredName": "Steven C. H. Hoi",
+                    "normalizedName": "S. C. H. Hoi",
+                    "firstName": "Steven C. H.",
+                    "lastName": "Hoi",
+                    "searchablePreferredName": "Steven C. H. Hoi",
+                    "id": 37397578300
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "34",
+            "publicationDate": "1 Oct. 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/TPAMI.2020.2982166",
+            "pdfSize": "1507",
+            "ephemera": false,
+            "articleNumber": "9044873",
+            "documentLink": "/document/9044873/",
+            "articleTitle": "Deep Learning for Image Super-Resolution: A Survey",
+            "isNumber": "9527405",
+            "volume": "43",
+            "issue": "10",
+            "endPage": "3387",
+            "startPage": "3365",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=34",
+            "showHtml": true,
+            "citationCount": 948,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9044873/citations?tabFilter=papers",
+            "multiMediaLink": "/document/9044873/media",
+            "downloadCount": 29642,
+            "htmlLink": "/document/9044873/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=34&title=Deep+Learning+for+Image+Super-Resolution%3A+A+Survey&isbn=null&publicationDate=1+Oct.+2021&author=Zhihao+Wang%3B+Jian+Chen%3B+Steven+C.+H.+Hoi&ContentID=10.1109/TPAMI.2020.2982166&orderBeanReset=true&startPage=3365&endPage=3387&volumeNum=43&issueNum=10",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9044873",
+            "displayPublicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "abstract": "Image Super-Resolution (SR) is an important class of image processing techniqueso enhance the resolution of images and videos in computer vision. Recent years have witnessed remarkable progress of image super-resolution using deep learning techniques. This article aims to provide a comprehensive survey on recent advances of image super-resolution using deep learning approaches. In general, we can ...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Deep Learning for Image Super-Resolution: A Survey",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Jun Liu",
+                    "normalizedName": "J. Liu",
+                    "firstName": "Jun",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Jun Liu",
+                    "id": 37085810130
+                },
+                {
+                    "preferredName": "Amir Shahroudy",
+                    "normalizedName": "A. Shahroudy",
+                    "firstName": "Amir",
+                    "lastName": "Shahroudy",
+                    "searchablePreferredName": "Amir Shahroudy",
+                    "id": 37085844658
+                },
+                {
+                    "preferredName": "Mauricio Perez",
+                    "normalizedName": "M. Perez",
+                    "firstName": "Mauricio",
+                    "lastName": "Perez",
+                    "searchablePreferredName": "Mauricio Perez",
+                    "id": 37086037506
+                },
+                {
+                    "preferredName": "Gang Wang",
+                    "normalizedName": "G. Wang",
+                    "firstName": "Gang",
+                    "lastName": "Wang",
+                    "searchablePreferredName": "Gang Wang",
+                    "id": 37404549600
+                },
+                {
+                    "preferredName": "Ling-Yu Duan",
+                    "normalizedName": "L. -Y. Duan",
+                    "firstName": "Ling-Yu",
+                    "lastName": "Duan",
+                    "searchablePreferredName": "Ling-Yu Duan",
+                    "id": 37404722600
+                },
+                {
+                    "preferredName": "Alex C. Kot",
+                    "normalizedName": "A. C. Kot",
+                    "firstName": "Alex C.",
+                    "lastName": "Kot",
+                    "searchablePreferredName": "Alex C. Kot",
+                    "id": 37271226200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "34",
+            "publicationDate": "1 Oct. 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/TPAMI.2019.2916873",
+            "pdfSize": "3067",
+            "ephemera": false,
+            "articleNumber": "8713892",
+            "documentLink": "/document/8713892/",
+            "articleTitle": "NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding",
+            "isNumber": "9185119",
+            "volume": "42",
+            "issue": "10",
+            "endPage": "2701",
+            "startPage": "2684",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=34",
+            "showHtml": true,
+            "citationCount": 918,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8713892/citations?tabFilter=papers",
+            "downloadCount": 4793,
+            "htmlLink": "/document/8713892/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=34&title=NTU+RGB%2BD+120%3A+A+Large-Scale+Benchmark+for+3D+Human+Activity+Understanding&isbn=null&publicationDate=1+Oct.+2020&author=Jun+Liu%3B+Amir+Shahroudy%3B+Mauricio+Perez%3B+Gang+Wang%3B+Ling-Yu+Duan%3B+Alex+C.+Kot&ContentID=10.1109/TPAMI.2019.2916873&orderBeanReset=true&startPage=2684&endPage=2701&volumeNum=42&issueNum=10",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8713892",
+            "displayPublicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "abstract": "Research on [::depth::]-based human activity analysis achieved outstanding performance and demonstrated the effectiveness of 3D representation for action recognition. The existing [::depth::]-based and RGB+D-based action recognition benchmarks have a number of limitations, including the lack of large-scale training samples, realistic number of distinct class categories, diversity in camera views, ...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "René Ranftl",
+                    "normalizedName": "R. Ranftl",
+                    "firstName": "René",
+                    "lastName": "Ranftl",
+                    "searchablePreferredName": "René Ranftl",
+                    "id": 38252786800
+                },
+                {
+                    "preferredName": "Katrin Lasinger",
+                    "normalizedName": "K. Lasinger",
+                    "firstName": "Katrin",
+                    "lastName": "Lasinger",
+                    "searchablePreferredName": "Katrin Lasinger",
+                    "id": 37085698555
+                },
+                {
+                    "preferredName": "David Hafner",
+                    "normalizedName": "D. Hafner",
+                    "firstName": "David",
+                    "lastName": "Hafner",
+                    "searchablePreferredName": "David Hafner",
+                    "id": 37087689225
+                },
+                {
+                    "preferredName": "Konrad Schindler",
+                    "normalizedName": "K. Schindler",
+                    "firstName": "Konrad",
+                    "lastName": "Schindler",
+                    "searchablePreferredName": "Konrad Schindler",
+                    "id": 37267277500
+                },
+                {
+                    "preferredName": "Vladlen Koltun",
+                    "normalizedName": "V. Koltun",
+                    "firstName": "Vladlen",
+                    "lastName": "Koltun",
+                    "searchablePreferredName": "Vladlen Koltun",
+                    "id": 37739465900
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "34",
+            "publicationDate": "1 March 2022",
+            "publicationYear": "2022",
+            "doi": "10.1109/TPAMI.2020.3019967",
+            "pdfSize": "11899",
+            "ephemera": false,
+            "articleNumber": "9178977",
+            "documentLink": "/document/9178977/",
+            "articleTitle": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer",
+            "isNumber": "9703108",
+            "volume": "44",
+            "issue": "3",
+            "endPage": "1637",
+            "startPage": "1623",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=34",
+            "showHtml": true,
+            "citationCount": 755,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9178977/citations?tabFilter=papers",
+            "multiMediaLink": "/document/9178977/media",
+            "downloadCount": 16638,
+            "htmlLink": "/document/9178977/",
+            "vj": false,
+            "showAlgorithm": false,
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9178977",
+            "displayPublicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "abstract": "The success of monocular [::depth::] estimation relies on large and diverse training sets. Due to the challenges associated with acquiring dense ground-truth [::depth::] across different environments at scale, a number of datasets with distinct characteristics and biases have emerged. We develop tools that enable mixing multiple datasets during training, even if their annotations are incompatible....",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Towards Robust Monocular [::Depth::] Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Jiaming Sun",
+                    "normalizedName": "J. Sun",
+                    "firstName": "Jiaming",
+                    "lastName": "Sun",
+                    "searchablePreferredName": "Jiaming Sun",
+                    "id": 37088454044
+                },
+                {
+                    "preferredName": "Zehong Shen",
+                    "normalizedName": "Z. Shen",
+                    "firstName": "Zehong",
+                    "lastName": "Shen",
+                    "searchablePreferredName": "Zehong Shen",
+                    "id": 37089016515
+                },
+                {
+                    "preferredName": "Yuang Wang",
+                    "normalizedName": "Y. Wang",
+                    "firstName": "Yuang",
+                    "lastName": "Wang",
+                    "searchablePreferredName": "Yuang Wang",
+                    "id": 37089018706
+                },
+                {
+                    "preferredName": "Hujun Bao",
+                    "normalizedName": "H. Bao",
+                    "firstName": "Hujun",
+                    "lastName": "Bao",
+                    "searchablePreferredName": "Hujun Bao",
+                    "id": 37271755400
+                },
+                {
+                    "preferredName": "Xiaowei Zhou",
+                    "normalizedName": "X. Zhou",
+                    "firstName": "Xiaowei",
+                    "lastName": "Zhou",
+                    "searchablePreferredName": "Xiaowei Zhou",
+                    "id": 37087235480
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9577055",
+            "publicationDate": "20-25 June 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/CVPR46437.2021.00881",
+            "pdfSize": "5137",
+            "ephemera": false,
+            "articleNumber": "9578008",
+            "documentLink": "/document/9578008/",
+            "articleTitle": "LoFTR: Detector-Free Local Feature Matching with Transformers",
+            "isNumber": "9577056",
+            "endPage": "8927",
+            "startPage": "8918",
+            "publicationLink": "/xpl/conhome/9577055/proceeding",
+            "showHtml": true,
+            "citationCount": 700,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9578008/citations?tabFilter=papers",
+            "downloadCount": 2015,
+            "htmlLink": "/document/9578008/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=LoFTR%3A+Detector-Free+Local+Feature+Matching+with+Transformers&isbn=null&publicationDate=20-25+June+2021&author=Jiaming+Sun%3B+Zehong+Shen%3B+Yuang+Wang%3B+Hujun+Bao%3B+Xiaowei+Zhou&ContentID=10.1109/CVPR46437.2021.00881&orderBeanReset=true&startPage=8918&endPage=8927&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9578008",
+            "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "We present a novel method for local image feature matching. Instead of performing image feature detection, description, and matching sequentially, we propose to first establish pixel-wise dense matches at a coarse level and later refine the good matches at a fine level. In contrast to dense methods that use a cost volume to search correspondences, we use self and cross attention layers in Transfor...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "LoFTR: Detector-Free Local Feature Matching with Transformers",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Albert Pumarola",
+                    "normalizedName": "A. Pumarola",
+                    "firstName": "Albert",
+                    "lastName": "Pumarola",
+                    "searchablePreferredName": "Albert Pumarola",
+                    "id": 37086137868
+                },
+                {
+                    "preferredName": "Enric Corona",
+                    "normalizedName": "E. Corona",
+                    "firstName": "Enric",
+                    "lastName": "Corona",
+                    "searchablePreferredName": "Enric Corona",
+                    "id": 37086578863
+                },
+                {
+                    "preferredName": "Gerard Pons-Moll",
+                    "normalizedName": "G. Pons-Moll",
+                    "firstName": "Gerard",
+                    "lastName": "Pons-Moll",
+                    "searchablePreferredName": "Gerard Pons-Moll",
+                    "id": 38272875000
+                },
+                {
+                    "preferredName": "Francesc Moreno-Noguer",
+                    "normalizedName": "F. Moreno-Noguer",
+                    "firstName": "Francesc",
+                    "lastName": "Moreno-Noguer",
+                    "searchablePreferredName": "Francesc Moreno-Noguer",
+                    "id": 38274555200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9577055",
+            "publicationDate": "20-25 June 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/CVPR46437.2021.01018",
+            "pdfSize": "10576",
+            "ephemera": false,
+            "articleNumber": "9578753",
+            "documentLink": "/document/9578753/",
+            "articleTitle": "D-NeRF: Neural Radiance Fields for Dynamic Scenes",
+            "isNumber": "9577056",
+            "endPage": "10322",
+            "startPage": "10313",
+            "publicationLink": "/xpl/conhome/9577055/proceeding",
+            "showHtml": true,
+            "citationCount": 605,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9578753/citations?tabFilter=papers",
+            "downloadCount": 944,
+            "htmlLink": "/document/9578753/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=D-NeRF%3A+Neural+Radiance+Fields+for+Dynamic+Scenes&isbn=null&publicationDate=20-25+June+2021&author=Albert+Pumarola%3B+Enric+Corona%3B+Gerard+Pons-Moll%3B+Francesc+Moreno-Noguer&ContentID=10.1109/CVPR46437.2021.01018&orderBeanReset=true&startPage=10313&endPage=10322&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9578753",
+            "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Neural rendering techniques combining machine learning with geometric reasoning have arisen as one of the most promising approaches for synthesizing novel views of a scene from a sparse set of images. Among these, stands out the Neural radiance fields (NeRF) [31], which trains a deep network to [::map::] 5D input coordinates (representing spatial location and viewing direction) into a volume densi...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "D-NeRF: Neural Radiance Fields for Dynamic Scenes",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Jonathan T. Barron",
+                    "normalizedName": "J. T. Barron",
+                    "firstName": "Jonathan T.",
+                    "lastName": "Barron",
+                    "searchablePreferredName": "Jonathan T. Barron",
+                    "id": 37953015500
+                },
+                {
+                    "preferredName": "Ben Mildenhall",
+                    "normalizedName": "B. Mildenhall",
+                    "firstName": "Ben",
+                    "lastName": "Mildenhall",
+                    "searchablePreferredName": "Ben Mildenhall",
+                    "id": 37086568629
+                },
+                {
+                    "preferredName": "Dor Verbin",
+                    "normalizedName": "D. Verbin",
+                    "firstName": "Dor",
+                    "lastName": "Verbin",
+                    "searchablePreferredName": "Dor Verbin",
+                    "id": 37088458476
+                },
+                {
+                    "preferredName": "Pratul P. Srinivasan",
+                    "normalizedName": "P. P. Srinivasan",
+                    "firstName": "Pratul P.",
+                    "lastName": "Srinivasan",
+                    "searchablePreferredName": "Pratul P. Srinivasan",
+                    "id": 37085691695
+                },
+                {
+                    "preferredName": "Peter Hedman",
+                    "normalizedName": "P. Hedman",
+                    "firstName": "Peter",
+                    "lastName": "Hedman",
+                    "searchablePreferredName": "Peter Hedman",
+                    "id": 38513541300
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9878378",
+            "publicationDate": "18-24 June 2022",
+            "publicationYear": "2022",
+            "doi": "10.1109/CVPR52688.2022.00539",
+            "pdfSize": "1573",
+            "ephemera": false,
+            "articleNumber": "9878829",
+            "documentLink": "/document/9878829/",
+            "articleTitle": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+            "isNumber": "9878366",
+            "endPage": "5469",
+            "startPage": "5460",
+            "publicationLink": "/xpl/conhome/9878378/proceeding",
+            "showHtml": true,
+            "citationCount": 581,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9878829/citations?tabFilter=papers",
+            "downloadCount": 792,
+            "htmlLink": "/document/9878829/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Mip-NeRF+360%3A+Unbounded+Anti-Aliased+Neural+Radiance+Fields&isbn=null&publicationDate=18-24+June+2022&author=Jonathan+T.+Barron%3B+Ben+Mildenhall%3B+Dor+Verbin%3B+Pratul+P.+Srinivasan%3B+Peter+Hedman&ContentID=10.1109/CVPR52688.2022.00539&orderBeanReset=true&startPage=5460&endPage=5469&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9878829",
+            "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Though neural radiance fields (NeRF) have demon-strated impressive view synthesis results on objects and small bounded regions of space, they struggle on “un-bounded” scenes, where the camera may point in any di-rection and content may exist at any distance. In this set-ting, existing NeRF-like models often produce blurry or low-resolution renderings (due to the unbalanced detail and scale of near...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Michael Niemeyer",
+                    "normalizedName": "M. Niemeyer",
+                    "firstName": "Michael",
+                    "lastName": "Niemeyer",
+                    "searchablePreferredName": "Michael Niemeyer",
+                    "id": 37086607566
+                },
+                {
+                    "preferredName": "Lars Mescheder",
+                    "normalizedName": "L. Mescheder",
+                    "firstName": "Lars",
+                    "lastName": "Mescheder",
+                    "searchablePreferredName": "Lars Mescheder",
+                    "id": 37087233159
+                },
+                {
+                    "preferredName": "Michael Oechsle",
+                    "normalizedName": "M. Oechsle",
+                    "firstName": "Michael",
+                    "lastName": "Oechsle",
+                    "searchablePreferredName": "Michael Oechsle",
+                    "id": 37087231665
+                },
+                {
+                    "preferredName": "Andreas Geiger",
+                    "normalizedName": "A. Geiger",
+                    "firstName": "Andreas",
+                    "lastName": "Geiger",
+                    "searchablePreferredName": "Andreas Geiger",
+                    "id": 37393671000
+                }
+            ],
+            "patentCitationCount": 1,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9142308",
+            "publicationDate": "13-19 June 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/CVPR42600.2020.00356",
+            "pdfSize": "2146",
+            "ephemera": false,
+            "articleNumber": "9157495",
+            "documentLink": "/document/9157495/",
+            "articleTitle": "Differentiable Volumetric Rendering: Learning Implicit 3D Representations Without 3D Supervision",
+            "isNumber": "9156271",
+            "endPage": "3512",
+            "startPage": "3501",
+            "publicationLink": "/xpl/conhome/9142308/proceeding",
+            "showHtml": true,
+            "citationCount": 567,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9157495/citations?tabFilter=papers",
+            "patentCitationsLink": "/document/9157495/citations?tabFilter=patents",
+            "downloadCount": 559,
+            "htmlLink": "/document/9157495/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Differentiable+Volumetric+Rendering%3A+Learning+Implicit+3D+Representations+Without+3D+Supervision&isbn=null&publicationDate=13-19+June+2020&author=Michael+Niemeyer%3B+Lars+Mescheder%3B+Michael+Oechsle%3B+Andreas+Geiger&ContentID=10.1109/CVPR42600.2020.00356&orderBeanReset=true&startPage=3501&endPage=3512&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9157495",
+            "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Learning-based 3D reconstruction methods have shown impressive results. However, most methods require 3D supervision which is often hard to obtain for real-world datasets. Recently, several works have proposed differentiable rendering techniques to train reconstruction models from RGB images. Unfortunately, these approaches are currently restricted to voxel- and mesh-based representations, sufferi...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Differentiable Volumetric Rendering: Learning Implicit 3D Representations Without 3D Supervision",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Yanan Sun",
+                    "normalizedName": "Y. Sun",
+                    "firstName": "Yanan",
+                    "lastName": "Sun",
+                    "searchablePreferredName": "Yanan Sun",
+                    "id": 37086201764
+                },
+                {
+                    "preferredName": "Bing Xue",
+                    "normalizedName": "B. Xue",
+                    "firstName": "Bing",
+                    "lastName": "Xue",
+                    "searchablePreferredName": "Bing Xue",
+                    "id": 37660818400
+                },
+                {
+                    "preferredName": "Mengjie Zhang",
+                    "normalizedName": "M. Zhang",
+                    "firstName": "Mengjie",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Mengjie Zhang",
+                    "id": 37406631900
+                },
+                {
+                    "preferredName": "Gary G. Yen",
+                    "normalizedName": "G. G. Yen",
+                    "firstName": "Gary G.",
+                    "lastName": "Yen",
+                    "searchablePreferredName": "Gary G. Yen",
+                    "id": 37276281300
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "4235",
+            "publicationDate": "April 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/TEVC.2019.2916183",
+            "pdfSize": "1368",
+            "ephemera": false,
+            "articleNumber": "8712430",
+            "documentLink": "/document/8712430/",
+            "articleTitle": "Evolving Deep Convolutional Neural Networks for Image Classification",
+            "isNumber": "9051613",
+            "volume": "24",
+            "issue": "2",
+            "endPage": "407",
+            "startPage": "394",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=4235",
+            "showHtml": true,
+            "citationCount": 485,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8712430/citations?tabFilter=papers",
+            "downloadCount": 8295,
+            "htmlLink": "/document/8712430/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=4235&title=Evolving+Deep+Convolutional+Neural+Networks+for+Image+Classification&isbn=null&publicationDate=April+2020&author=Yanan+Sun%3B+Bing+Xue%3B+Mengjie+Zhang%3B+Gary+G.+Yen&ContentID=10.1109/TEVC.2019.2916183&orderBeanReset=true&startPage=394&endPage=407&volumeNum=24&issueNum=2",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8712430",
+            "displayPublicationTitle": "IEEE Transactions on Evolutionary Computation",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Evolutionary Computation",
+            "abstract": "Evolutionary paradigms have been successfully applied to neural network designs for two decades. Unfortunately, these methods cannot scale well to the modern deep neural networks due to the complicated architectures and large quantities of connection weights. In this paper, we propose a new method using genetic algorithms for evolving the architectures and connection weight initialization values o...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Evolving Deep Convolutional Neural Networks for Image Classification",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xiaodong Gu",
+                    "normalizedName": "X. Gu",
+                    "firstName": "Xiaodong",
+                    "lastName": "Gu",
+                    "searchablePreferredName": "Xiaodong Gu",
+                    "id": 37556242200
+                },
+                {
+                    "preferredName": "Zhiwen Fan",
+                    "normalizedName": "Z. Fan",
+                    "firstName": "Zhiwen",
+                    "lastName": "Fan",
+                    "searchablePreferredName": "Zhiwen Fan",
+                    "id": 37088455943
+                },
+                {
+                    "preferredName": "Siyu Zhu",
+                    "normalizedName": "S. Zhu",
+                    "firstName": "Siyu",
+                    "lastName": "Zhu",
+                    "searchablePreferredName": "Siyu Zhu",
+                    "id": 37085442921
+                },
+                {
+                    "preferredName": "Zuozhuo Dai",
+                    "normalizedName": "Z. Dai",
+                    "firstName": "Zuozhuo",
+                    "lastName": "Dai",
+                    "searchablePreferredName": "Zuozhuo Dai",
+                    "id": 37088214793
+                },
+                {
+                    "preferredName": "Feitong Tan",
+                    "normalizedName": "F. Tan",
+                    "firstName": "Feitong",
+                    "lastName": "Tan",
+                    "searchablePreferredName": "Feitong Tan",
+                    "id": 37086564142
+                },
+                {
+                    "preferredName": "Ping Tan",
+                    "normalizedName": "P. Tan",
+                    "firstName": "Ping",
+                    "lastName": "Tan",
+                    "searchablePreferredName": "Ping Tan",
+                    "id": 37085414267
+                }
+            ],
+            "patentCitationCount": 1,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9142308",
+            "publicationDate": "13-19 June 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/CVPR42600.2020.00257",
+            "pdfSize": "2069",
+            "ephemera": false,
+            "articleNumber": "9157551",
+            "documentLink": "/document/9157551/",
+            "articleTitle": "Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching",
+            "isNumber": "9156271",
+            "endPage": "2501",
+            "startPage": "2492",
+            "publicationLink": "/xpl/conhome/9142308/proceeding",
+            "showHtml": true,
+            "citationCount": 455,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9157551/citations?tabFilter=papers",
+            "patentCitationsLink": "/document/9157551/citations?tabFilter=patents",
+            "downloadCount": 1265,
+            "htmlLink": "/document/9157551/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Cascade+Cost+Volume+for+High-Resolution+Multi-View+Stereo+and+Stereo+Matching&isbn=null&publicationDate=13-19+June+2020&author=Xiaodong+Gu%3B+Zhiwen+Fan%3B+Siyu+Zhu%3B+Zuozhuo+Dai%3B+Feitong+Tan%3B+Ping+Tan&ContentID=10.1109/CVPR42600.2020.00257&orderBeanReset=true&startPage=2492&endPage=2501&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9157551",
+            "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "The deep multi-view stereo (MVS) and stereo matching approaches generally construct 3D cost volumes to regularize and regress the output [::depth::] or disparity. These methods are limited when high-resolution outputs are needed since the memory and time costs grow cubically as the volume resolution increases. In this paper, we propose a both memory and time efficient cost volume formulation that ...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Haiyan Wu",
+                    "normalizedName": "H. Wu",
+                    "firstName": "Haiyan",
+                    "lastName": "Wu",
+                    "searchablePreferredName": "Haiyan Wu",
+                    "id": 37088448947
+                },
+                {
+                    "preferredName": "Yanyun Qu",
+                    "normalizedName": "Y. Qu",
+                    "firstName": "Yanyun",
+                    "lastName": "Qu",
+                    "searchablePreferredName": "Yanyun Qu",
+                    "id": 37397085900
+                },
+                {
+                    "preferredName": "Shaohui Lin",
+                    "normalizedName": "S. Lin",
+                    "firstName": "Shaohui",
+                    "lastName": "Lin",
+                    "searchablePreferredName": "Shaohui Lin",
+                    "id": 37087079950
+                },
+                {
+                    "preferredName": "Jian Zhou",
+                    "normalizedName": "J. Zhou",
+                    "firstName": "Jian",
+                    "lastName": "Zhou",
+                    "searchablePreferredName": "Jian Zhou",
+                    "id": 37089016474
+                },
+                {
+                    "preferredName": "Ruizhi Qiao",
+                    "normalizedName": "R. Qiao",
+                    "firstName": "Ruizhi",
+                    "lastName": "Qiao",
+                    "searchablePreferredName": "Ruizhi Qiao",
+                    "id": 37086034159
+                },
+                {
+                    "preferredName": "Zhizhong Zhang",
+                    "normalizedName": "Z. Zhang",
+                    "firstName": "Zhizhong",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Zhizhong Zhang",
+                    "id": 37087059963
+                },
+                {
+                    "preferredName": "Yuan Xie",
+                    "normalizedName": "Y. Xie",
+                    "firstName": "Yuan",
+                    "lastName": "Xie",
+                    "searchablePreferredName": "Yuan Xie",
+                    "id": 38540384000
+                },
+                {
+                    "preferredName": "Lizhuang Ma",
+                    "normalizedName": "L. Ma",
+                    "firstName": "Lizhuang",
+                    "lastName": "Ma",
+                    "searchablePreferredName": "Lizhuang Ma",
+                    "id": 37404302300
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9577055",
+            "publicationDate": "20-25 June 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/CVPR46437.2021.01041",
+            "pdfSize": "1972",
+            "ephemera": false,
+            "articleNumber": "9578448",
+            "documentLink": "/document/9578448/",
+            "articleTitle": "Contrastive Learning for Compact Single Image Dehazing",
+            "isNumber": "9577056",
+            "endPage": "10555",
+            "startPage": "10546",
+            "publicationLink": "/xpl/conhome/9577055/proceeding",
+            "showHtml": true,
+            "citationCount": 446,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9578448/citations?tabFilter=papers",
+            "downloadCount": 1475,
+            "htmlLink": "/document/9578448/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Contrastive+Learning+for+Compact+Single+Image+Dehazing&isbn=null&publicationDate=20-25+June+2021&author=Haiyan+Wu%3B+Yanyun+Qu%3B+Shaohui+Lin%3B+Jian+Zhou%3B+Ruizhi+Qiao%3B+Zhizhong+Zhang%3B+Yuan+Xie%3B+Lizhuang+Ma&ContentID=10.1109/CVPR46437.2021.01041&orderBeanReset=true&startPage=10546&endPage=10555&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9578448",
+            "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Single image dehazing is a challenging ill-posed problem due to the severe information degeneration. However, existing deep learning based dehazing methods only adopt clear images as positive samples to guide the training of dehazing network while negative information is unexploited. Moreover, most of them focus on strengthening the dehazing network with an increase of [::depth::] and width, leadi...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Contrastive Learning for Compact Single Image Dehazing",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Vitor Guizilini",
+                    "normalizedName": "V. Guizilini",
+                    "firstName": "Vitor",
+                    "lastName": "Guizilini",
+                    "searchablePreferredName": "Vitor Guizilini",
+                    "id": 37946098900
+                },
+                {
+                    "preferredName": "Rareș Ambruș",
+                    "normalizedName": "R. Ambruș",
+                    "firstName": "Rareș",
+                    "lastName": "Ambruș",
+                    "searchablePreferredName": "Rareș Ambruș",
+                    "id": 37871304500
+                },
+                {
+                    "preferredName": "Sudeep Pillai",
+                    "normalizedName": "S. Pillai",
+                    "firstName": "Sudeep",
+                    "lastName": "Pillai",
+                    "searchablePreferredName": "Sudeep Pillai",
+                    "id": 37086936518
+                },
+                {
+                    "preferredName": "Allan Raventos",
+                    "normalizedName": "A. Raventos",
+                    "firstName": "Allan",
+                    "lastName": "Raventos",
+                    "searchablePreferredName": "Allan Raventos",
+                    "id": 37088458551
+                },
+                {
+                    "preferredName": "Adrien Gaidon",
+                    "normalizedName": "A. Gaidon",
+                    "firstName": "Adrien",
+                    "lastName": "Gaidon",
+                    "searchablePreferredName": "Adrien Gaidon",
+                    "id": 37945420900
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9142308",
+            "publicationDate": "13-19 June 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/CVPR42600.2020.00256",
+            "pdfSize": "1620",
+            "ephemera": false,
+            "articleNumber": "9156708",
+            "documentLink": "/document/9156708/",
+            "articleTitle": "3D Packing for Self-Supervised Monocular Depth Estimation",
+            "isNumber": "9156271",
+            "endPage": "2491",
+            "startPage": "2482",
+            "publicationLink": "/xpl/conhome/9142308/proceeding",
+            "showHtml": true,
+            "citationCount": 416,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9156708/citations?tabFilter=papers",
+            "downloadCount": 721,
+            "htmlLink": "/document/9156708/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=3D+Packing+for+Self-Supervised+Monocular+Depth+Estimation&isbn=null&publicationDate=13-19+June+2020&author=Vitor+Guizilini%3B+Rare%C8%99+Ambru%C8%99%3B+Sudeep+Pillai%3B+Allan+Raventos%3B+Adrien+Gaidon&ContentID=10.1109/CVPR42600.2020.00256&orderBeanReset=true&startPage=2482&endPage=2491&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9156708",
+            "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Although cameras are ubiquitous, robotic platforms typically rely on active sensors like LiDAR for direct 3D perception. In this work, we propose a novel self-supervised monocular [::depth::] estimation method combining geometry with a new deep network, PackNet, learned only from unlabeled monocular videos. Our architecture leverages novel symmetrical packing and unpacking blocks to jointly learn ...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "3D Packing for Self-Supervised Monocular [::Depth::] Estimation",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Risheng Liu",
+                    "normalizedName": "R. Liu",
+                    "firstName": "Risheng",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Risheng Liu",
+                    "id": 38237556200
+                },
+                {
+                    "preferredName": "Xin Fan",
+                    "normalizedName": "X. Fan",
+                    "firstName": "Xin",
+                    "lastName": "Fan",
+                    "searchablePreferredName": "Xin Fan",
+                    "id": 37401468400
+                },
+                {
+                    "preferredName": "Ming Zhu",
+                    "normalizedName": "M. Zhu",
+                    "firstName": "Ming",
+                    "lastName": "Zhu",
+                    "searchablePreferredName": "Ming Zhu",
+                    "id": 37675048100
+                },
+                {
+                    "preferredName": "Minjun Hou",
+                    "normalizedName": "M. Hou",
+                    "firstName": "Minjun",
+                    "lastName": "Hou",
+                    "searchablePreferredName": "Minjun Hou",
+                    "id": 37086529248
+                },
+                {
+                    "preferredName": "Zhongxuan Luo",
+                    "normalizedName": "Z. Luo",
+                    "firstName": "Zhongxuan",
+                    "lastName": "Luo",
+                    "searchablePreferredName": "Zhongxuan Luo",
+                    "id": 37279736500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "76",
+            "publicationDate": "Dec. 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/TCSVT.2019.2963772",
+            "pdfSize": "8469",
+            "ephemera": false,
+            "articleNumber": "8949763",
+            "documentLink": "/document/8949763/",
+            "articleTitle": "Real-World Underwater Enhancement: Challenges, Benchmarks, and Solutions Under Natural Light",
+            "isNumber": "9280452",
+            "volume": "30",
+            "issue": "12",
+            "endPage": "4875",
+            "startPage": "4861",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=76",
+            "showHtml": true,
+            "citationCount": 409,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8949763/citations?tabFilter=papers",
+            "downloadCount": 5653,
+            "htmlLink": "/document/8949763/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=76&title=Real-World+Underwater+Enhancement%3A+Challenges%2C+Benchmarks%2C+and+Solutions+Under+Natural+Light&isbn=null&publicationDate=Dec.+2020&author=Risheng+Liu%3B+Xin+Fan%3B+Ming+Zhu%3B+Minjun+Hou%3B+Zhongxuan+Luo&ContentID=10.1109/TCSVT.2019.2963772&orderBeanReset=true&startPage=4861&endPage=4875&volumeNum=30&issueNum=12",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8949763",
+            "displayPublicationTitle": "IEEE Transactions on Circuits and Systems for Video Technology",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Circuits and Systems for Video Technology",
+            "abstract": "Underwater image enhancement is such an important low-level vision task with many applications that numerous algorithms have been proposed in recent years. These algorithms developed upon various assumptions demonstrate successes from various aspects using different data sets and different metrics. In this work, we setup an undersea image capturing system, and construct a large-scale Real-world Un...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Real-World Underwater Enhancement: Challenges, Benchmarks, and Solutions Under Natural Light",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Deng-Ping Fan",
+                    "normalizedName": "D. -P. Fan",
+                    "firstName": "Deng-Ping",
+                    "lastName": "Fan",
+                    "searchablePreferredName": "Deng-Ping Fan",
+                    "id": 37086336744
+                },
+                {
+                    "preferredName": "Zheng Lin",
+                    "normalizedName": "Z. Lin",
+                    "firstName": "Zheng",
+                    "lastName": "Lin",
+                    "searchablePreferredName": "Zheng Lin",
+                    "id": 37088454816
+                },
+                {
+                    "preferredName": "Zhao Zhang",
+                    "normalizedName": "Z. Zhang",
+                    "firstName": "Zhao",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Zhao Zhang",
+                    "id": 37088456010
+                },
+                {
+                    "preferredName": "Menglong Zhu",
+                    "normalizedName": "M. Zhu",
+                    "firstName": "Menglong",
+                    "lastName": "Zhu",
+                    "searchablePreferredName": "Menglong Zhu",
+                    "id": 37085452739
+                },
+                {
+                    "preferredName": "Ming-Ming Cheng",
+                    "normalizedName": "M. -M. Cheng",
+                    "firstName": "Ming-Ming",
+                    "lastName": "Cheng",
+                    "searchablePreferredName": "Ming-Ming Cheng",
+                    "id": 37532083700
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "5962385",
+            "publicationDate": "May 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/TNNLS.2020.2996406",
+            "pdfSize": "5196",
+            "ephemera": false,
+            "articleNumber": "9107477",
+            "documentLink": "/document/9107477/",
+            "articleTitle": "Rethinking RGB-D Salient Object Detection: Models, Data Sets, and Large-Scale Benchmarks",
+            "isNumber": "9420773",
+            "volume": "32",
+            "issue": "5",
+            "endPage": "2089",
+            "startPage": "2075",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=5962385",
+            "showHtml": true,
+            "citationCount": 400,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9107477/citations?tabFilter=papers",
+            "downloadCount": 3270,
+            "htmlLink": "/document/9107477/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=5962385&title=Rethinking+RGB-D+Salient+Object+Detection%3A+Models%2C+Data+Sets%2C+and+Large-Scale+Benchmarks&isbn=null&publicationDate=May+2021&author=Deng-Ping+Fan%3B+Zheng+Lin%3B+Zhao+Zhang%3B+Menglong+Zhu%3B+Ming-Ming+Cheng&ContentID=10.1109/TNNLS.2020.2996406&orderBeanReset=true&startPage=2075&endPage=2089&volumeNum=32&issueNum=5",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9107477",
+            "displayPublicationTitle": "IEEE Transactions on Neural Networks and Learning Systems",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Neural Networks and Learning Systems",
+            "abstract": "The use of RGB-D information for salient object detection (SOD) has been extensively explored in recent years. However, relatively few efforts have been put toward modeling SOD in real-world human activity scenes with RGB-D. In this article, we fill the gap by making the following contributions to RGB-D SOD: 1) we carefully collect a new Salient Person (SIP) data set that consists of ~1 K high-res...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Rethinking RGB-D Salient Object Detection: Models, Data Sets, and Large-Scale Benchmarks",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Jie Liu",
+                    "normalizedName": "J. Liu",
+                    "firstName": "Jie",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Jie Liu",
+                    "id": 37086037551
+                },
+                {
+                    "preferredName": "Wenjie Zhang",
+                    "normalizedName": "W. Zhang",
+                    "firstName": "Wenjie",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Wenjie Zhang",
+                    "id": 37088361767
+                },
+                {
+                    "preferredName": "Yuting Tang",
+                    "normalizedName": "Y. Tang",
+                    "firstName": "Yuting",
+                    "lastName": "Tang",
+                    "searchablePreferredName": "Yuting Tang",
+                    "id": 37088454413
+                },
+                {
+                    "preferredName": "Jie Tang",
+                    "normalizedName": "J. Tang",
+                    "firstName": "Jie",
+                    "lastName": "Tang",
+                    "searchablePreferredName": "Jie Tang",
+                    "id": 38004755000
+                },
+                {
+                    "preferredName": "Gangshan Wu",
+                    "normalizedName": "G. Wu",
+                    "firstName": "Gangshan",
+                    "lastName": "Wu",
+                    "searchablePreferredName": "Gangshan Wu",
+                    "id": 37403454400
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9142308",
+            "publicationDate": "13-19 June 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/CVPR42600.2020.00243",
+            "pdfSize": "844",
+            "ephemera": false,
+            "articleNumber": "9156371",
+            "documentLink": "/document/9156371/",
+            "articleTitle": "Residual Feature Aggregation Network for Image Super-Resolution",
+            "isNumber": "9156271",
+            "endPage": "2365",
+            "startPage": "2356",
+            "publicationLink": "/xpl/conhome/9142308/proceeding",
+            "showHtml": true,
+            "citationCount": 391,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9156371/citations?tabFilter=papers",
+            "downloadCount": 1642,
+            "htmlLink": "/document/9156371/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Residual+Feature+Aggregation+Network+for+Image+Super-Resolution&isbn=null&publicationDate=13-19+June+2020&author=Jie+Liu%3B+Wenjie+Zhang%3B+Yuting+Tang%3B+Jie+Tang%3B+Gangshan+Wu&ContentID=10.1109/CVPR42600.2020.00243&orderBeanReset=true&startPage=2356&endPage=2365&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9156371",
+            "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Recently, very deep convolutional neural networks (CNNs) have shown great power in single image super-resolution (SISR) and achieved significant improvements against traditional methods. Among these CNN-based methods, the residual connections play a critical role in boosting the network performance. As the network [::depth::] grows, the residual features gradually focused on different aspects of t...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Residual Feature Aggregation Network for Image Super-Resolution",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Yongcheng Jing",
+                    "normalizedName": "Y. Jing",
+                    "firstName": "Yongcheng",
+                    "lastName": "Jing",
+                    "searchablePreferredName": "Yongcheng Jing",
+                    "id": 37086048565
+                },
+                {
+                    "preferredName": "Yezhou Yang",
+                    "normalizedName": "Y. Yang",
+                    "firstName": "Yezhou",
+                    "lastName": "Yang",
+                    "searchablePreferredName": "Yezhou Yang",
+                    "id": 37086004333
+                },
+                {
+                    "preferredName": "Zunlei Feng",
+                    "normalizedName": "Z. Feng",
+                    "firstName": "Zunlei",
+                    "lastName": "Feng",
+                    "searchablePreferredName": "Zunlei Feng",
+                    "id": 37086051139
+                },
+                {
+                    "preferredName": "Jingwen Ye",
+                    "normalizedName": "J. Ye",
+                    "firstName": "Jingwen",
+                    "lastName": "Ye",
+                    "searchablePreferredName": "Jingwen Ye",
+                    "id": 37086478199
+                },
+                {
+                    "preferredName": "Yizhou Yu",
+                    "normalizedName": "Y. Yu",
+                    "firstName": "Yizhou",
+                    "lastName": "Yu",
+                    "searchablePreferredName": "Yizhou Yu",
+                    "id": 37578164900
+                },
+                {
+                    "preferredName": "Mingli Song",
+                    "normalizedName": "M. Song",
+                    "firstName": "Mingli",
+                    "lastName": "Song",
+                    "searchablePreferredName": "Mingli Song",
+                    "id": 37278155300
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {
+                "type": "graphic",
+                "file": "/ielx7/2945/9210268/8732370/graphical_abstract/tvcg-gagraphic-2921336.jpg",
+                "coverImage": "/ielx7/2945/9210268/8732370/graphical_abstract/tvcg-gagraphic-2921336.jpg"
+            },
+            "publicationNumber": "2945",
+            "publicationDate": "1 Nov. 2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/TVCG.2019.2921336",
+            "pdfSize": "5741",
+            "ephemera": false,
+            "articleNumber": "8732370",
+            "documentLink": "/document/8732370/",
+            "articleTitle": "Neural Style Transfer: A Review",
+            "isNumber": "9210268",
+            "volume": "26",
+            "issue": "11",
+            "endPage": "3385",
+            "startPage": "3365",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=2945",
+            "showHtml": true,
+            "citationCount": 378,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8732370/citations?tabFilter=papers",
+            "multiMediaLink": "/document/8732370/media",
+            "downloadCount": 17777,
+            "htmlLink": "/document/8732370/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=2945&title=Neural+Style+Transfer%3A+A+Review&isbn=null&publicationDate=1+Nov.+2020&author=Yongcheng+Jing%3B+Yezhou+Yang%3B+Zunlei+Feng%3B+Jingwen+Ye%3B+Yizhou+Yu%3B+Mingli+Song&ContentID=10.1109/TVCG.2019.2921336&orderBeanReset=true&startPage=3365&endPage=3385&volumeNum=26&issueNum=11",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8732370",
+            "displayPublicationTitle": "IEEE Transactions on Visualization and Computer Graphics",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Visualization and Computer Graphics",
+            "abstract": "The seminal work of Gatys et al. demonstrated the power of Convolutional Neural Networks (CNNs) in creating artistic imagery by separating and recombining image content and style. This process of using CNNs to render a content image in different styles is referred to as Neural Style Transfer (NST). Since then, NST has become a trending topic both in academic literature and industrial applications....",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Neural Style Transfer: A Review",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Kangle Deng",
+                    "normalizedName": "K. Deng",
+                    "firstName": "Kangle",
+                    "lastName": "Deng",
+                    "searchablePreferredName": "Kangle Deng",
+                    "id": 37089542706
+                },
+                {
+                    "preferredName": "Andrew Liu",
+                    "normalizedName": "A. Liu",
+                    "firstName": "Andrew",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Andrew Liu",
+                    "id": 37089536361
+                },
+                {
+                    "preferredName": "Jun-Yan Zhu",
+                    "normalizedName": "J. -Y. Zhu",
+                    "firstName": "Jun-Yan",
+                    "lastName": "Zhu",
+                    "searchablePreferredName": "Jun-Yan Zhu",
+                    "id": 37085631277
+                },
+                {
+                    "preferredName": "Deva Ramanan",
+                    "normalizedName": "D. Ramanan",
+                    "firstName": "Deva",
+                    "lastName": "Ramanan",
+                    "searchablePreferredName": "Deva Ramanan",
+                    "id": 37393712400
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9878378",
+            "publicationDate": "18-24 June 2022",
+            "publicationYear": "2022",
+            "doi": "10.1109/CVPR52688.2022.01254",
+            "pdfSize": "8495",
+            "ephemera": false,
+            "articleNumber": "9880067",
+            "documentLink": "/document/9880067/",
+            "articleTitle": "Depth-supervised NeRF: Fewer Views and Faster Training for Free",
+            "isNumber": "9878366",
+            "endPage": "12881",
+            "startPage": "12872",
+            "publicationLink": "/xpl/conhome/9878378/proceeding",
+            "showHtml": true,
+            "citationCount": 375,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9880067/citations?tabFilter=papers",
+            "downloadCount": 728,
+            "htmlLink": "/document/9880067/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Depth-supervised+NeRF%3A+Fewer+Views+and+Faster+Training+for+Free&isbn=null&publicationDate=18-24+June+2022&author=Kangle+Deng%3B+Andrew+Liu%3B+Jun-Yan+Zhu%3B+Deva+Ramanan&ContentID=10.1109/CVPR52688.2022.01254&orderBeanReset=true&startPage=12872&endPage=12881&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9880067",
+            "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "A commonly observed failure mode of Neural Radiance Field (NeRF) is fitting incorrect geometries when given an insufficient number of input views. One potential reason is that standard volumetric rendering does not enforce the constraint that most of a scene&#39;s geometry consist of empty space and opaque surfaces. We formalize the above assumption through DS-NeRF ([::Depth::]-supervised Neural Radia...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "[::Depth::]-supervised NeRF: Fewer Views and Faster Training for Free",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Zihan Zhu",
+                    "normalizedName": "Z. Zhu",
+                    "firstName": "Zihan",
+                    "lastName": "Zhu",
+                    "searchablePreferredName": "Zihan Zhu",
+                    "id": 37089534798
+                },
+                {
+                    "preferredName": "Songyou Peng",
+                    "normalizedName": "S. Peng",
+                    "firstName": "Songyou",
+                    "lastName": "Peng",
+                    "searchablePreferredName": "Songyou Peng",
+                    "id": 37086313579
+                },
+                {
+                    "preferredName": "Viktor Larsson",
+                    "normalizedName": "V. Larsson",
+                    "firstName": "Viktor",
+                    "lastName": "Larsson",
+                    "searchablePreferredName": "Viktor Larsson",
+                    "id": 37085374289
+                },
+                {
+                    "preferredName": "Weiwei Xu",
+                    "normalizedName": "W. Xu",
+                    "firstName": "Weiwei",
+                    "lastName": "Xu",
+                    "searchablePreferredName": "Weiwei Xu",
+                    "id": 37086043107
+                },
+                {
+                    "preferredName": "Hujun Bao",
+                    "normalizedName": "H. Bao",
+                    "firstName": "Hujun",
+                    "lastName": "Bao",
+                    "searchablePreferredName": "Hujun Bao",
+                    "id": 37271755400
+                },
+                {
+                    "preferredName": "Zhaopeng Cui",
+                    "normalizedName": "Z. Cui",
+                    "firstName": "Zhaopeng",
+                    "lastName": "Cui",
+                    "searchablePreferredName": "Zhaopeng Cui",
+                    "id": 37085646310
+                },
+                {
+                    "preferredName": "Martin R. Oswald",
+                    "normalizedName": "M. R. Oswald",
+                    "firstName": "Martin R.",
+                    "lastName": "Oswald",
+                    "searchablePreferredName": "Martin R. Oswald",
+                    "id": 38467098900
+                },
+                {
+                    "preferredName": "Marc Pollefeys",
+                    "normalizedName": "M. Pollefeys",
+                    "firstName": "Marc",
+                    "lastName": "Pollefeys",
+                    "searchablePreferredName": "Marc Pollefeys",
+                    "id": 37271138500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9878378",
+            "publicationDate": "18-24 June 2022",
+            "publicationYear": "2022",
+            "doi": "10.1109/CVPR52688.2022.01245",
+            "pdfSize": "8875",
+            "ephemera": false,
+            "articleNumber": "9878912",
+            "documentLink": "/document/9878912/",
+            "articleTitle": "NICE-SLAM: Neural Implicit Scalable Encoding for SLAM",
+            "isNumber": "9878366",
+            "endPage": "12786",
+            "startPage": "12776",
+            "publicationLink": "/xpl/conhome/9878378/proceeding",
+            "showHtml": true,
+            "citationCount": 350,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9878912/citations?tabFilter=papers",
+            "downloadCount": 1412,
+            "htmlLink": "/document/9878912/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=NICE-SLAM%3A+Neural+Implicit+Scalable+Encoding+for+SLAM&isbn=null&publicationDate=18-24+June+2022&author=Zihan+Zhu%3B+Songyou+Peng%3B+Viktor+Larsson%3B+Weiwei+Xu%3B+Hujun+Bao%3B+Zhaopeng+Cui%3B+Martin+R.+Oswald%3B+Marc+Pollefeys&ContentID=10.1109/CVPR52688.2022.01245&orderBeanReset=true&startPage=12776&endPage=12786&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9878912",
+            "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Neural implicit representations have recently shown encouraging results in various domains, including promising progress in simultaneous localization and [::mapping::] (SLAM). Nevertheless, existing methods produce over- smoothed scene reconstructions and have difficulty scaling up to large scenes. These limitations are mainly due to their simple fully-connected network architecture that does not ...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "NICE-SLAM: Neural Implicit Scalable Encoding for SLAM",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Jiayuan Li",
+                    "normalizedName": "J. Li",
+                    "firstName": "Jiayuan",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Jiayuan Li",
+                    "id": 37085521909
+                },
+                {
+                    "preferredName": "Qingwu Hu",
+                    "normalizedName": "Q. Hu",
+                    "firstName": "Qingwu",
+                    "lastName": "Hu",
+                    "searchablePreferredName": "Qingwu Hu",
+                    "id": 37667406500
+                },
+                {
+                    "preferredName": "Mingyao Ai",
+                    "normalizedName": "M. Ai",
+                    "firstName": "Mingyao",
+                    "lastName": "Ai",
+                    "searchablePreferredName": "Mingyao Ai",
+                    "id": 37532014100
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "83",
+            "publicationDate": "2020",
+            "publicationYear": "2020",
+            "doi": "10.1109/TIP.2019.2959244",
+            "pdfSize": "8035",
+            "ephemera": false,
+            "articleNumber": "8935498",
+            "documentLink": "/document/8935498/",
+            "articleTitle": "RIFT: Multi-Modal Image Matching Based on Radiation-Variation Insensitive Feature Transform",
+            "isNumber": "8835130",
+            "volume": "29",
+            "endPage": "3310",
+            "startPage": "3296",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=83",
+            "showHtml": true,
+            "citationCount": 337,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8935498/citations?tabFilter=papers",
+            "downloadCount": 5719,
+            "htmlLink": "/document/8935498/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=83&title=RIFT%3A+Multi-Modal+Image+Matching+Based+on+Radiation-Variation+Insensitive+Feature+Transform&isbn=null&publicationDate=2020&author=Jiayuan+Li%3B+Qingwu+Hu%3B+Mingyao+Ai&ContentID=10.1109/TIP.2019.2959244&orderBeanReset=true&startPage=3296&endPage=3310&volumeNum=29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8935498",
+            "displayPublicationTitle": "IEEE Transactions on Image Processing",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Image Processing",
+            "abstract": "Traditional feature matching methods, such as scale-invariant feature transform (SIFT), usually use image intensity or gradient information to detect and describe feature points; however, both intensity and gradient are sensitive to nonlinear radiation distortions (NRD). To solve this problem, this paper proposes a novel feature matching algorithm that is robust to large NRD. The proposed method i...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "RIFT: Multi-Modal Image Matching Based on Radiation-Variation Insensitive Feature Transform",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Tai Wang",
+                    "normalizedName": "T. Wang",
+                    "firstName": "Tai",
+                    "lastName": "Wang",
+                    "searchablePreferredName": "Tai Wang",
+                    "id": 37089013069
+                },
+                {
+                    "preferredName": "Xinge Zhu",
+                    "normalizedName": "X. Zhu",
+                    "firstName": "Xinge",
+                    "lastName": "Zhu",
+                    "searchablePreferredName": "Xinge Zhu",
+                    "id": 37086492460
+                },
+                {
+                    "preferredName": "Jiangmiao Pang",
+                    "normalizedName": "J. Pang",
+                    "firstName": "Jiangmiao",
+                    "lastName": "Pang",
+                    "searchablePreferredName": "Jiangmiao Pang",
+                    "id": 37086915487
+                },
+                {
+                    "preferredName": "Dahua Lin",
+                    "normalizedName": "D. Lin",
+                    "firstName": "Dahua",
+                    "lastName": "Lin",
+                    "searchablePreferredName": "Dahua Lin",
+                    "id": 37416122100
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "9607382",
+            "publicationDate": "11-17 Oct. 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/ICCVW54120.2021.00107",
+            "pdfSize": "9844",
+            "ephemera": false,
+            "articleNumber": "9607436",
+            "documentLink": "/document/9607436/",
+            "articleTitle": "FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection",
+            "isNumber": "9607383",
+            "endPage": "922",
+            "startPage": "913",
+            "publicationLink": "/xpl/conhome/9607382/proceeding",
+            "showHtml": true,
+            "citationCount": 334,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9607436/citations?tabFilter=papers",
+            "multiMediaLink": "/document/9607436/media",
+            "downloadCount": 476,
+            "htmlLink": "/document/9607436/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=FCOS3D%3A+Fully+Convolutional+One-Stage+Monocular+3D+Object+Detection&isbn=null&publicationDate=11-17+Oct.+2021&author=Tai+Wang%3B+Xinge+Zhu%3B+Jiangmiao+Pang%3B+Dahua+Lin&ContentID=10.1109/ICCVW54120.2021.00107&orderBeanReset=true&startPage=913&endPage=922&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+Workshops+%28ICCVW%29",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9607436",
+            "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+            "isOnlineOnly": false,
+            "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+            "abstract": "Monocular 3D object detection is an important task for autonomous driving considering its advantage of low cost. It is much more challenging than conventional 2D cases due to its inherent ill-posed property, which is mainly reflected in the lack of [::depth::] information. Recent progress on 2D detection offers opportunities to better solving this problem. However, it is non-trivial to make a gene...",
+            "articleContentType": "Conferences",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection",
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isConference": true,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Yimian Dai",
+                    "normalizedName": "Y. Dai",
+                    "firstName": "Yimian",
+                    "lastName": "Dai",
+                    "searchablePreferredName": "Yimian Dai",
+                    "id": 37086197817
+                },
+                {
+                    "preferredName": "Yiquan Wu",
+                    "normalizedName": "Y. Wu",
+                    "firstName": "Yiquan",
+                    "lastName": "Wu",
+                    "searchablePreferredName": "Yiquan Wu",
+                    "id": 37351571600
+                },
+                {
+                    "preferredName": "Fei Zhou",
+                    "normalizedName": "F. Zhou",
+                    "firstName": "Fei",
+                    "lastName": "Zhou",
+                    "searchablePreferredName": "Fei Zhou",
+                    "id": 37086882406
+                },
+                {
+                    "preferredName": "Kobus Barnard",
+                    "normalizedName": "K. Barnard",
+                    "firstName": "Kobus",
+                    "lastName": "Barnard",
+                    "searchablePreferredName": "Kobus Barnard",
+                    "id": 37282175300
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "graphicalAbstract": {},
+            "publicationNumber": "36",
+            "publicationDate": "Nov. 2021",
+            "publicationYear": "2021",
+            "doi": "10.1109/TGRS.2020.3044958",
+            "pdfSize": "3049",
+            "ephemera": false,
+            "articleNumber": "9314219",
+            "documentLink": "/document/9314219/",
+            "articleTitle": "Attentional Local Contrast Networks for Infrared Small Target Detection",
+            "isNumber": "9586340",
+            "volume": "59",
+            "issue": "11",
+            "endPage": "9824",
+            "startPage": "9813",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=36",
+            "showHtml": true,
+            "citationCount": 329,
+            "showDataset": false,
+            "showVideo": false,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9314219/citations?tabFilter=papers",
+            "downloadCount": 5204,
+            "htmlLink": "/document/9314219/",
+            "vj": false,
+            "showAlgorithm": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=36&title=Attentional+Local+Contrast+Networks+for+Infrared+Small+Target+Detection&isbn=null&publicationDate=Nov.+2021&author=Yimian+Dai%3B+Yiquan+Wu%3B+Fei+Zhou%3B+Kobus+Barnard&ContentID=10.1109/TGRS.2020.3044958&orderBeanReset=true&startPage=9813&endPage=9824&volumeNum=59&issueNum=11",
+            "redline": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "contentType": "IEEE Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9314219",
+            "displayPublicationTitle": "IEEE Transactions on Geoscience and Remote Sensing",
+            "isOnlineOnly": false,
+            "publicationTitle": "IEEE Transactions on Geoscience and Remote Sensing",
+            "abstract": "To mitigate the issue of minimal intrinsic features for pure data-driven methods, in this article, we propose a novel model-driven deep network for infrared small target detection, which combines discriminative networks and conventional model-driven methods to make use of both labeled data and the domain knowledge. By designing a feature [::map::] cyclic shift scheme, we modularize a conventional ...",
+            "articleContentType": "Journals",
+            "isImmersiveArticle": false,
+            "highlightedTitle": "Attentional Local Contrast Networks for Infrared Small Target Detection",
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isConference": false,
+            "isBook": false,
+            "isJournal": false,
+            "isBookWithoutChapters": false,
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        }
+    ],
+    "breadCrumbs": [
+        {
+            "type": "search",
+            "children": [
+                {
+                    "value": "Depth Map",
+                    "reference": "Depth Map",
+                    "display": "Depth Map"
+                }
+            ]
+        },
+        {
+            "type": "range",
+            "key": "Year",
+            "reference": "2020_2025_Year",
+            "start": "2020",
+            "end": "2025"
+        }
+    ],
+    "showStandardDictionary": false,
+    "facets": [
+        {
+            "id": "ContentType",
+            "name": "Content Type",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "ContentType:Conferences",
+                    "name": "Conferences",
+                    "numRecords": 8995,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Journals",
+                    "name": "Journals",
+                    "numRecords": 4495,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Early Access Articles",
+                    "name": "Early Access Articles",
+                    "numRecords": 124,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Magazines",
+                    "name": "Magazines",
+                    "numRecords": 68,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Books",
+                    "name": "Books",
+                    "numRecords": 9,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Standards",
+                    "name": "Standards",
+                    "numRecords": 8,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationYear",
+            "name": "Year",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationYear:2020",
+                    "name": "2020",
+                    "numRecords": 2011,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2021",
+                    "name": "2021",
+                    "numRecords": 2614,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2022",
+                    "name": "2022",
+                    "numRecords": 2761,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2023",
+                    "name": "2023",
+                    "numRecords": 3287,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2024",
+                    "name": "2024",
+                    "numRecords": 2926,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2025",
+                    "name": "2025",
+                    "numRecords": 100,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Author",
+            "name": "Author",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Author:Wujie Zhou",
+                    "name": "Wujie Zhou",
+                    "numRecords": 42,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Matteo Poggi",
+                    "name": "Matteo Poggi",
+                    "numRecords": 41,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Stefano Mattoccia",
+                    "name": "Stefano Mattoccia",
+                    "numRecords": 37,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yu Zhang",
+                    "name": "Yu Zhang",
+                    "numRecords": 29,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Marc Pollefeys",
+                    "name": "Marc Pollefeys",
+                    "numRecords": 29,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Lu Yu",
+                    "name": "Lu Yu",
+                    "numRecords": 29,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yong Liu",
+                    "name": "Yong Liu",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Fabio Tosi",
+                    "name": "Fabio Tosi",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jun Li",
+                    "name": "Jun Li",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yuchao Dai",
+                    "name": "Yuchao Dai",
+                    "numRecords": 27,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yang Yang",
+                    "name": "Yang Yang",
+                    "numRecords": 27,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Wei Wang",
+                    "name": "Wei Wang",
+                    "numRecords": 26,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Zhiguo Cao",
+                    "name": "Zhiguo Cao",
+                    "numRecords": 26,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Wei Zhang",
+                    "name": "Wei Zhang",
+                    "numRecords": 26,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jie Li",
+                    "name": "Jie Li",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Luc Van Gool",
+                    "name": "Luc Van Gool",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Wei Li",
+                    "name": "Wei Li",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yu Liu",
+                    "name": "Yu Liu",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Peng Wang",
+                    "name": "Peng Wang",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Li Li",
+                    "name": "Li Li",
+                    "numRecords": 24,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jing Zhang",
+                    "name": "Jing Zhang",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yang Liu",
+                    "name": "Yang Liu",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Chen Wang",
+                    "name": "Chen Wang",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Hujun Bao",
+                    "name": "Hujun Bao",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Rui Wang",
+                    "name": "Rui Wang",
+                    "numRecords": 22,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Affiliation",
+            "name": "Affiliation",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Affiliation:University of Chinese Academy of Sciences, Beijing, China",
+                    "name": "University of Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 61,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
+                    "name": "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 51,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Technical University of Munich",
+                    "name": "Technical University of Munich",
+                    "numRecords": 43,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Electrical and Information Engineering, Tianjin University, Tianjin, China",
+                    "name": "School of Electrical and Information Engineering, Tianjin University, Tianjin, China",
+                    "numRecords": 41,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Carnegie Mellon University",
+                    "name": "Carnegie Mellon University",
+                    "numRecords": 41,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Zhejiang University",
+                    "name": "Zhejiang University",
+                    "numRecords": 39,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Peng Cheng Laboratory, Shenzhen, China",
+                    "name": "Peng Cheng Laboratory, Shenzhen, China",
+                    "numRecords": 39,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Information and Electronic Engineering, Zhejiang University of Science and Technology, Hangzhou, China",
+                    "name": "School of Information and Electronic Engineering, Zhejiang University of Science and Technology, Hangzhou, China",
+                    "numRecords": 36,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Automation, Tsinghua University, Beijing, China",
+                    "name": "Department of Automation, Tsinghua University, Beijing, China",
+                    "numRecords": 34,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Google Research",
+                    "name": "Google Research",
+                    "numRecords": 34,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Faculty of Information Technology, Beijing University of Technology, Beijing, China",
+                    "name": "Faculty of Information Technology, Beijing University of Technology, Beijing, China",
+                    "numRecords": 33,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan, China",
+                    "name": "State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan, China",
+                    "numRecords": 32,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:NVIDIA",
+                    "name": "NVIDIA",
+                    "numRecords": 32,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Computer Science and Engineering, Nanyang Technological University, Singapore",
+                    "name": "School of Computer Science and Engineering, Nanyang Technological University, Singapore",
+                    "numRecords": 30,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China",
+                    "name": "School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China",
+                    "numRecords": 29,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Automation Science and Electrical Engineering, Beihang University, Beijing, China",
+                    "name": "School of Automation Science and Electrical Engineering, Beihang University, Beijing, China",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China",
+                    "name": "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Tsinghua University",
+                    "name": "Tsinghua University",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+                    "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+                    "numRecords": 26,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Stanford University",
+                    "name": "Stanford University",
+                    "numRecords": 26,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Science and Technology of China, Hefei, China",
+                    "name": "University of Science and Technology of China, Hefei, China",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Computer Science, City University of Hong Kong, Hong Kong",
+                    "name": "Department of Computer Science, City University of Hong Kong, Hong Kong",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Automation, University of Science and Technology of China, Hefei, China",
+                    "name": "Department of Automation, University of Science and Technology of China, Hefei, China",
+                    "numRecords": 24,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore",
+                    "name": "School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore",
+                    "numRecords": 24,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Google",
+                    "name": "Google",
+                    "numRecords": 24,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationTitle",
+            "name": "Publication Title",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationTitle:IEEE Access",
+                    "name": "IEEE Access",
+                    "numRecords": 845,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Robotics and Automation Letters",
+                    "name": "IEEE Robotics and Automation Letters",
+                    "numRecords": 391,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Geoscience and Remote Sensing",
+                    "name": "IEEE Transactions on Geoscience and Remote Sensing",
+                    "numRecords": 271,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Image Processing",
+                    "name": "IEEE Transactions on Image Processing",
+                    "numRecords": 226,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Circuits and Systems for Video Technology",
+                    "name": "IEEE Transactions on Circuits and Systems for Video Technology",
+                    "numRecords": 221,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Instrumentation and Measurement",
+                    "name": "IEEE Transactions on Instrumentation and Measurement",
+                    "numRecords": 214,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Pattern Analysis and Machine Intelligence",
+                    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+                    "numRecords": 210,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Sensors Journal",
+                    "name": "IEEE Sensors Journal",
+                    "numRecords": 201,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "name": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "numRecords": 198,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "name": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "numRecords": 178,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                    "name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                    "numRecords": 160,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2023 IEEE/CVF International Conference on Computer Vision (ICCV)",
+                    "name": "2023 IEEE/CVF International Conference on Computer Vision (ICCV)",
+                    "numRecords": 154,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "name": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "numRecords": 145,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Multimedia",
+                    "name": "IEEE Transactions on Multimedia",
+                    "numRecords": 137,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Intelligent Transportation Systems",
+                    "name": "IEEE Transactions on Intelligent Transportation Systems",
+                    "numRecords": 131,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "name": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "numRecords": 123,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "name": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "numRecords": 122,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Visualization and Computer Graphics",
+                    "name": "IEEE Transactions on Visualization and Computer Graphics",
+                    "numRecords": 116,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+                    "name": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+                    "numRecords": 111,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2024 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "name": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "numRecords": 110,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2023 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "name": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "numRecords": 97,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2021 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "name": "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "numRecords": 86,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+                    "name": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+                    "numRecords": 82,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2020 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "name": "2020 IEEE International Conference on Robotics and Automation (ICRA)",
+                    "numRecords": 81,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+                    "name": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+                    "numRecords": 79,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Publisher",
+            "name": "Publisher",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Publisher:IEEE",
+                    "name": "IEEE",
+                    "numRecords": 13585,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:OUP",
+                    "name": "OUP",
+                    "numRecords": 60,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:VDE",
+                    "name": "VDE",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:IET",
+                    "name": "IET",
+                    "numRecords": 13,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:TUP",
+                    "name": "TUP",
+                    "numRecords": 5,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:Packt Publishing",
+                    "name": "Packt Publishing",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:River Publishers",
+                    "name": "River Publishers",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:AGU",
+                    "name": "AGU",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:BIAI",
+                    "name": "BIAI",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:CIE",
+                    "name": "CIE",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:CPSS",
+                    "name": "CPSS",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:De Gruyter",
+                    "name": "De Gruyter",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:Ericsson",
+                    "name": "Ericsson",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:PSPC",
+                    "name": "PSPC",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:Wiley",
+                    "name": "Wiley",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:now",
+                    "name": "now",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "SupplementalItem",
+            "name": "Supplemental Items",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "SupplementalItem:Media",
+                    "name": "Media",
+                    "numRecords": 1511,
+                    "active": "true"
+                },
+                {
+                    "id": "SupplementalItem:Datasets",
+                    "name": "Datasets",
+                    "numRecords": 29,
+                    "active": "true"
+                },
+                {
+                    "id": "SupplementalItem:Code",
+                    "name": "Code",
+                    "numRecords": 6,
+                    "active": "true"
+                },
+                {
+                    "id": "SupplementalItem:Video",
+                    "name": "Video",
+                    "numRecords": 6,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "ConferenceLocation",
+            "name": "Conference Location",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "ConferenceLocation:Seattle, WA, USA",
+                    "name": "Seattle, WA, USA",
+                    "numRecords": 419,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Paris, France",
+                    "name": "Paris, France",
+                    "numRecords": 258,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Vancouver, BC, Canada",
+                    "name": "Vancouver, BC, Canada",
+                    "numRecords": 225,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Xi'an, China",
+                    "name": "Xi'an, China",
+                    "numRecords": 200,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Montreal, QC, Canada",
+                    "name": "Montreal, QC, Canada",
+                    "numRecords": 192,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Waikoloa, HI, USA",
+                    "name": "Waikoloa, HI, USA",
+                    "numRecords": 180,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Chongqing, China",
+                    "name": "Chongqing, China",
+                    "numRecords": 176,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:New Orleans, LA, USA",
+                    "name": "New Orleans, LA, USA",
+                    "numRecords": 167,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Nashville, TN, USA",
+                    "name": "Nashville, TN, USA",
+                    "numRecords": 153,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Chengdu, China",
+                    "name": "Chengdu, China",
+                    "numRecords": 149,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:London, United Kingdom",
+                    "name": "London, United Kingdom",
+                    "numRecords": 143,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Yokohama, Japan",
+                    "name": "Yokohama, Japan",
+                    "numRecords": 140,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Las Vegas, NV, USA",
+                    "name": "Las Vegas, NV, USA",
+                    "numRecords": 137,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Shanghai, China",
+                    "name": "Shanghai, China",
+                    "numRecords": 126,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Abu Dhabi, United Arab Emirates",
+                    "name": "Abu Dhabi, United Arab Emirates",
+                    "numRecords": 124,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Hangzhou, China",
+                    "name": "Hangzhou, China",
+                    "numRecords": 107,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Prague, Czech Republic",
+                    "name": "Prague, Czech Republic",
+                    "numRecords": 105,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Beijing, China",
+                    "name": "Beijing, China",
+                    "numRecords": 103,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Guangzhou, China",
+                    "name": "Guangzhou, China",
+                    "numRecords": 101,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Kuala Lumpur, Malaysia",
+                    "name": "Kuala Lumpur, Malaysia",
+                    "numRecords": 92,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Kyoto, Japan",
+                    "name": "Kyoto, Japan",
+                    "numRecords": 92,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Shenzhen, China",
+                    "name": "Shenzhen, China",
+                    "numRecords": 87,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Dalian, China",
+                    "name": "Dalian, China",
+                    "numRecords": 86,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Singapore, Singapore",
+                    "name": "Singapore, Singapore",
+                    "numRecords": 84,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Nanjing, China",
+                    "name": "Nanjing, China",
+                    "numRecords": 81,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationTopics",
+            "name": "Publication Topics",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationTopics:Depth Map",
+                    "name": "Depth Map",
+                    "numRecords": 4282,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Convolutional Neural Network",
+                    "name": "Convolutional Neural Network",
+                    "numRecords": 3459,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Feature Maps",
+                    "name": "Feature Maps",
+                    "numRecords": 3016,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Point Cloud",
+                    "name": "Point Cloud",
+                    "numRecords": 2855,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Depth Estimation",
+                    "name": "Depth Estimation",
+                    "numRecords": 2759,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Depth Camera",
+                    "name": "Depth Camera",
+                    "numRecords": 2143,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Neural Network",
+                    "name": "Neural Network",
+                    "numRecords": 1951,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Convolutional Layers",
+                    "name": "Convolutional Layers",
+                    "numRecords": 1882,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Deep Learning",
+                    "name": "Deep Learning",
+                    "numRecords": 1862,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Depth Images",
+                    "name": "Depth Images",
+                    "numRecords": 1832,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Simultaneous Localization And Mapping",
+                    "name": "Simultaneous Localization And Mapping",
+                    "numRecords": 1596,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:RGB Images",
+                    "name": "RGB Images",
+                    "numRecords": 1513,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Object Detection",
+                    "name": "Object Detection",
+                    "numRecords": 1481,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Pose Estimation",
+                    "name": "Pose Estimation",
+                    "numRecords": 1342,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Semantic Segmentation",
+                    "name": "Semantic Segmentation",
+                    "numRecords": 1220,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Depth Information",
+                    "name": "Depth Information",
+                    "numRecords": 1212,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Bounding Box",
+                    "name": "Bounding Box",
+                    "numRecords": 1123,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Camera Pose",
+                    "name": "Camera Pose",
+                    "numRecords": 1117,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Deep Neural Network",
+                    "name": "Deep Neural Network",
+                    "numRecords": 1055,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:3D Reconstruction",
+                    "name": "3D Reconstruction",
+                    "numRecords": 987,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Root Mean Square Error",
+                    "name": "Root Mean Square Error",
+                    "numRecords": 955,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Attention Mechanism",
+                    "name": "Attention Mechanism",
+                    "numRecords": 918,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Monocular Depth Estimation",
+                    "name": "Monocular Depth Estimation",
+                    "numRecords": 836,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Input Image",
+                    "name": "Input Image",
+                    "numRecords": 790,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Loss Function",
+                    "name": "Loss Function",
+                    "numRecords": 749,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "StandardStatus",
+            "name": "Standard Status",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "StandardStatus:Active",
+                    "name": "Active",
+                    "numRecords": 6,
+                    "active": "true"
+                },
+                {
+                    "id": "StandardStatus:Inactive",
+                    "name": "Inactive",
+                    "numRecords": 2,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "StandardType",
+            "name": "Standard Type",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "StandardType:Standard Docs",
+                    "name": "Standard Docs",
+                    "numRecords": 8,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        }
+    ],
+    "searchType": "basic",
+    "promoApplied": false,
+    "sortValue": "paper-citations",
+    "recordsPerPage": 25,
+    "totalRecords": 13699,
+    "startRecord": 0,
+    "subscribedContentApplied": false,
+    "endRecord": 25,
+    "totalPages": 548
+}

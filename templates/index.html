@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Paper Scraper</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script>
+        var socket = io.connect("http://127.0.0.1:5000");
+
+        function startScraping() {
+            var searchTerm = document.getElementById("search_term").value;
+            if (!searchTerm) {
+                alert("Please enter a search term.");
+                return;
+            }
+
+            document.getElementById("status").innerHTML = "Scraping started...";
+            fetch('/scrape', {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ search_term: searchTerm })
+            }).then(response => response.json())
+              .then(data => document.getElementById("status").innerHTML = data.message)
+              .catch(error => console.error("Error:", error));
+        }
+
+        // Listen for updates and add rows dynamically
+        socket.on("update_table", function(paper) {
+            var table = document.getElementById("papers");
+            var row = table.insertRow(-1);
+            row.insertCell(0).innerText = paper.Title;
+            row.insertCell(1).innerText = paper.Authors.join(", ");
+            row.insertCell(2).innerText = paper.Abstract;
+            row.insertCell(3).innerText = paper.Keywords.join(", ");
+            row.insertCell(4).innerText = paper["No. of Cites"];
+            row.insertCell(5).innerText = paper.Views;
+        });
+    </script>
+</head>
+<body>
+    <h1>Live Paper Scraper</h1>
+    <input type="text" id="search_term" placeholder="Enter search term">
+    <button onclick="startScraping()">Start Scraping</button>
+    <p id="status"></p>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Authors</th>
+                <th>Abstract</th>
+                <th>Keywords</th>
+                <th>Citations</th>
+                <th>Views</th>
+            </tr>
+        </thead>
+        <tbody id="papers"></tbody>
+    </table>
+</body>
+</html>

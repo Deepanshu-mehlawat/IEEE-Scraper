@@ -1,0 +1,3804 @@
+{
+    "userInfo": {
+        "institutionName": "BML Munjal University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": true,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "POPALL:2017:2025|VDE:2017:2025|",
+        "instType": "Academic",
+        "userIds": [
+            4300743
+        ],
+        "ip": "103.139.191.219",
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "marketingInfoCaptured": false,
+        "ringGoldId": "435516",
+        "isReadAndPublish": false
+    },
+    "records": [
+        {
+            "authors": [
+                {
+                    "preferredName": "Cheng-Han Lee",
+                    "normalizedName": "C. -H. Lee",
+                    "firstName": "Cheng-Han",
+                    "lastName": "Lee",
+                    "searchablePreferredName": "Cheng-Han Lee",
+                    "id": 37088458560
+                },
+                {
+                    "preferredName": "Ziwei Liu",
+                    "normalizedName": "Z. Liu",
+                    "firstName": "Ziwei",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Ziwei Liu",
+                    "id": 37085708953
+                },
+                {
+                    "preferredName": "Lingyun Wu",
+                    "normalizedName": "L. Wu",
+                    "firstName": "Lingyun",
+                    "lastName": "Wu",
+                    "searchablePreferredName": "Lingyun Wu",
+                    "id": 37086603578
+                },
+                {
+                    "preferredName": "Ping Luo",
+                    "normalizedName": "P. Luo",
+                    "firstName": "Ping",
+                    "lastName": "Luo",
+                    "searchablePreferredName": "Ping Luo",
+                    "id": 37391818200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationLink": "/xpl/conhome/9142308/proceeding",
+            "publicationNumber": "9142308",
+            "doi": "10.1109/CVPR42600.2020.00559",
+            "publicationYear": "2020",
+            "publicationDate": "13-19 June 2020",
+            "isNumber": "9156271",
+            "ephemera": false,
+            "endPage": "5557",
+            "articleTitle": "MaskGAN: Towards Diverse and Interactive Facial Image Manipulation",
+            "documentLink": "/document/9157722/",
+            "pdfSize": "705",
+            "articleNumber": "9157722",
+            "graphicalAbstract": {},
+            "startPage": "5548",
+            "citationCount": 551,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=MaskGAN%3A+Towards+Diverse+and+Interactive+Facial+Image+Manipulation&isbn=null&publicationDate=13-19+June+2020&author=Cheng-Han+Lee%3B+Ziwei+Liu%3B+Lingyun+Wu%3B+Ping+Luo&ContentID=10.1109/CVPR42600.2020.00559&orderBeanReset=true&startPage=5548&endPage=5557&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9157722/",
+            "downloadCount": 553,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9157722/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Conferences",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9157722",
+            "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isOnlineOnly": false,
+            "highlightedTitle": "MaskGAN: Towards Diverse and Interactive Facial Image Manipulation",
+            "abstract": "Facial image manipulation has achieved great progress in recent years. However, previous methods either operate on a predefined set of face attributes or leave [::users::] little freedom to interactively manipulate images. To overcome these drawbacks, we propose a novel framework termed MaskGAN, enabling diverse and interactive face manipulation. Our key insight is that semantic masks serve as a s...",
+            "articleContentType": "Conferences",
+            "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": false,
+            "isConference": true,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Amir Rasouli",
+                    "normalizedName": "A. Rasouli",
+                    "firstName": "Amir",
+                    "lastName": "Rasouli",
+                    "searchablePreferredName": "Amir Rasouli",
+                    "id": 37086037019
+                },
+                {
+                    "preferredName": "John K. Tsotsos",
+                    "normalizedName": "J. K. Tsotsos",
+                    "firstName": "John K.",
+                    "lastName": "Tsotsos",
+                    "searchablePreferredName": "John K. Tsotsos",
+                    "id": 37269539500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+            "publicationNumber": "6979",
+            "doi": "10.1109/TITS.2019.2901817",
+            "publicationYear": "2020",
+            "publicationDate": "March 2020",
+            "isNumber": "9018398",
+            "ephemera": false,
+            "endPage": "918",
+            "articleTitle": "Autonomous Vehicles That Interact With Pedestrians: A Survey of Theory and Practice",
+            "documentLink": "/document/8667866/",
+            "volume": "21",
+            "pdfSize": "5052",
+            "articleNumber": "8667866",
+            "issue": "3",
+            "graphicalAbstract": {},
+            "startPage": "900",
+            "citationCount": 489,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/8667866/",
+            "downloadCount": 30951,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/8667866/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8667866",
+            "displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Autonomous Vehicles That Interact With Pedestrians: A Survey of Theory and Practice",
+            "abstract": "One of the major challenges that autonomous cars are facing today is driving in urban environments. To make it a reality, autonomous vehicles require the ability to communicate with other road [::users::] and understand their intentions. Such interactions are essential between vehicles and pedestrians, the most vulnerable road [::users::]. Understanding pedestrian [::behavior::], however, is not i...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Zhihua Cui",
+                    "normalizedName": "Z. Cui",
+                    "firstName": "Zhihua",
+                    "lastName": "Cui",
+                    "searchablePreferredName": "Zhihua Cui",
+                    "id": 37284922200
+                },
+                {
+                    "preferredName": "Xianghua Xu",
+                    "normalizedName": "X. Xu",
+                    "firstName": "Xianghua",
+                    "lastName": "Xu",
+                    "searchablePreferredName": "Xianghua Xu",
+                    "id": 37308495000
+                },
+                {
+                    "preferredName": "Fei XUE",
+                    "normalizedName": "F. XUE",
+                    "firstName": "Fei",
+                    "lastName": "XUE",
+                    "searchablePreferredName": "Fei XUE",
+                    "id": 37086405802
+                },
+                {
+                    "preferredName": "Xingjuan Cai",
+                    "normalizedName": "X. Cai",
+                    "firstName": "Xingjuan",
+                    "lastName": "Cai",
+                    "searchablePreferredName": "Xingjuan Cai",
+                    "id": 37277224700
+                },
+                {
+                    "preferredName": "Yang Cao",
+                    "normalizedName": "Y. Cao",
+                    "firstName": "Yang",
+                    "lastName": "Cao",
+                    "searchablePreferredName": "Yang Cao",
+                    "id": 37086404153
+                },
+                {
+                    "preferredName": "Wensheng Zhang",
+                    "normalizedName": "W. Zhang",
+                    "firstName": "Wensheng",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Wensheng Zhang",
+                    "id": 37674719000
+                },
+                {
+                    "preferredName": "Jinjun Chen",
+                    "normalizedName": "J. Chen",
+                    "firstName": "Jinjun",
+                    "lastName": "Chen",
+                    "searchablePreferredName": "Jinjun Chen",
+                    "id": 37280682600
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=4629386",
+            "publicationNumber": "4629386",
+            "doi": "10.1109/TSC.2020.2964552",
+            "publicationYear": "2020",
+            "publicationDate": "1 July-Aug. 2020",
+            "isNumber": "9159956",
+            "ephemera": false,
+            "endPage": "695",
+            "articleTitle": "Personalized Recommendation System Based on Collaborative Filtering for IoT Scenarios",
+            "documentLink": "/document/8951278/",
+            "volume": "13",
+            "pdfSize": "714",
+            "articleNumber": "8951278",
+            "issue": "4",
+            "graphicalAbstract": {},
+            "startPage": "685",
+            "citationCount": 378,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=4629386&title=Personalized+Recommendation+System+Based+on+Collaborative+Filtering+for+IoT+Scenarios&isbn=null&publicationDate=1+July-Aug.+2020&author=Zhihua+Cui%3B+Xianghua+Xu%3B+Fei+XUE%3B+Xingjuan+Cai%3B+Yang+Cao%3B+Wensheng+Zhang%3B+Jinjun+Chen&ContentID=10.1109/TSC.2020.2964552&orderBeanReset=true&startPage=685&endPage=695&volumeNum=13&issueNum=4",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/8951278/",
+            "downloadCount": 7817,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8951278/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8951278",
+            "displayPublicationTitle": "IEEE Transactions on Services Computing",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Personalized Recommendation System Based on Collaborative Filtering for IoT Scenarios",
+            "abstract": "Recommendation technology is an important part of the Internet of Things (IoT) services, which can provide better service for [::users::] and help [::users::] get information anytime, anywhere. However, the traditional recommendation algorithms cannot meet [::user::]&#39;s fast and accurate recommended requirements in the IoT environment. In the face of a large-volume data, the method of finding neigh...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Services Computing",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Yang Zhao",
+                    "normalizedName": "Y. Zhao",
+                    "firstName": "Yang",
+                    "lastName": "Zhao",
+                    "searchablePreferredName": "Yang Zhao",
+                    "id": 37088664833
+                },
+                {
+                    "preferredName": "Jun Zhao",
+                    "normalizedName": "J. Zhao",
+                    "firstName": "Jun",
+                    "lastName": "Zhao",
+                    "searchablePreferredName": "Jun Zhao",
+                    "id": 37076140300
+                },
+                {
+                    "preferredName": "Linshan Jiang",
+                    "normalizedName": "L. Jiang",
+                    "firstName": "Linshan",
+                    "lastName": "Jiang",
+                    "searchablePreferredName": "Linshan Jiang",
+                    "id": 37086457227
+                },
+                {
+                    "preferredName": "Rui Tan",
+                    "normalizedName": "R. Tan",
+                    "firstName": "Rui",
+                    "lastName": "Tan",
+                    "searchablePreferredName": "Rui Tan",
+                    "id": 37085788263
+                },
+                {
+                    "preferredName": "Dusit Niyato",
+                    "normalizedName": "D. Niyato",
+                    "firstName": "Dusit",
+                    "lastName": "Niyato",
+                    "searchablePreferredName": "Dusit Niyato",
+                    "id": 37296968900
+                },
+                {
+                    "preferredName": "Zengxiang Li",
+                    "normalizedName": "Z. Li",
+                    "firstName": "Zengxiang",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Zengxiang Li",
+                    "id": 37085521743
+                },
+                {
+                    "preferredName": "Lingjuan Lyu",
+                    "normalizedName": "L. Lyu",
+                    "firstName": "Lingjuan",
+                    "lastName": "Lyu",
+                    "searchablePreferredName": "Lingjuan Lyu",
+                    "id": 37086084152
+                },
+                {
+                    "preferredName": "Yingbo Liu",
+                    "normalizedName": "Y. Liu",
+                    "firstName": "Yingbo",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Yingbo Liu",
+                    "id": 37598228200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6488907",
+            "publicationNumber": "6488907",
+            "doi": "10.1109/JIOT.2020.3017377",
+            "publicationYear": "2021",
+            "publicationDate": "1 Feb.1, 2021",
+            "isNumber": "9334468",
+            "ephemera": false,
+            "endPage": "1829",
+            "articleTitle": "Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices",
+            "documentLink": "/document/9170559/",
+            "volume": "8",
+            "pdfSize": "1725",
+            "articleNumber": "9170559",
+            "issue": "3",
+            "graphicalAbstract": {},
+            "startPage": "1817",
+            "citationCount": 341,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6488907&title=Privacy-Preserving+Blockchain-Based+Federated+Learning+for+IoT+Devices&isbn=null&publicationDate=1+Feb.1%2C+2021&author=Yang+Zhao%3B+Jun+Zhao%3B+Linshan+Jiang%3B+Rui+Tan%3B+Dusit+Niyato%3B+Zengxiang+Li%3B+Lingjuan+Lyu%3B+Yingbo+Liu&ContentID=10.1109/JIOT.2020.3017377&orderBeanReset=true&startPage=1817&endPage=1829&volumeNum=8&issueNum=3",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9170559/",
+            "downloadCount": 10492,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9170559/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9170559",
+            "displayPublicationTitle": "IEEE Internet of Things Journal",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices",
+            "abstract": "Home appliance manufacturers strive to obtain feedback from [::users::] to improve their products and services to build a smart home system. To help manufacturers develop a smart home system, we design a federated learning (FL) system leveraging a reputation mechanism to assist home appliance manufacturers to train a machine learning model based on customers’ data. Then, manufacturers can predict ...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Internet of Things Journal",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Yang Li",
+                    "normalizedName": "Y. Li",
+                    "firstName": "Yang",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Yang Li",
+                    "id": 37085997032
+                },
+                {
+                    "preferredName": "Meng Han",
+                    "normalizedName": "M. Han",
+                    "firstName": "Meng",
+                    "lastName": "Han",
+                    "searchablePreferredName": "Meng Han",
+                    "id": 37088972318
+                },
+                {
+                    "preferredName": "Zhen Yang",
+                    "normalizedName": "Z. Yang",
+                    "firstName": "Zhen",
+                    "lastName": "Yang",
+                    "searchablePreferredName": "Zhen Yang",
+                    "id": 38467948800
+                },
+                {
+                    "preferredName": "Guoqing Li",
+                    "normalizedName": "G. Li",
+                    "firstName": "Guoqing",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Guoqing Li",
+                    "id": 37292280000
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=5165391",
+            "publicationNumber": "5165391",
+            "doi": "10.1109/TSTE.2021.3090463",
+            "publicationYear": "2021",
+            "publicationDate": "Oct. 2021",
+            "isNumber": "9530836",
+            "ephemera": false,
+            "endPage": "2331",
+            "articleTitle": "Coordinating Flexible Demand Response and Renewable Uncertainties for Scheduling of Community Integrated Energy Systems With an Electric Vehicle Charging Station: A Bi-Level Approach",
+            "documentLink": "/document/9460799/",
+            "volume": "12",
+            "pdfSize": "3149",
+            "articleNumber": "9460799",
+            "issue": "4",
+            "graphicalAbstract": {},
+            "startPage": "2321",
+            "citationCount": 333,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=5165391&title=Coordinating+Flexible+Demand+Response+and+Renewable+Uncertainties+for+Scheduling+of+Community+Integrated+Energy+Systems+With+an+Electric+Vehicle+Charging+Station%3A+A+Bi-Level+Approach&isbn=null&publicationDate=Oct.+2021&author=Yang+Li%3B+Meng+Han%3B+Zhen+Yang%3B+Guoqing+Li&ContentID=10.1109/TSTE.2021.3090463&orderBeanReset=true&startPage=2321&endPage=2331&volumeNum=12&issueNum=4",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9460799/",
+            "downloadCount": 7519,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9460799/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9460799",
+            "displayPublicationTitle": "IEEE Transactions on Sustainable Energy",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Coordinating Flexible Demand Response and Renewable Uncertainties for Scheduling of Community Integrated Energy Systems With an Electric Vehicle Charging Station: A Bi-Level Approach",
+            "abstract": "A community integrated energy system (CIES) with an electric vehicle charging station (EVCS) provides a new way for tackling growing concerns of energy efficiency and environmental pollution, it is a critical task to coordinate flexible demand response and multiple renewable uncertainties. To this end, a novel bi-level optimal dispatching model for the CIES with an EVCS in multi-stakeholder scenar...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Sustainable Energy",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Anutusha Dogra",
+                    "normalizedName": "A. Dogra",
+                    "firstName": "Anutusha",
+                    "lastName": "Dogra",
+                    "searchablePreferredName": "Anutusha Dogra",
+                    "id": 37088861602
+                },
+                {
+                    "preferredName": "Rakesh Kumar Jha",
+                    "normalizedName": "R. K. Jha",
+                    "firstName": "Rakesh Kumar",
+                    "lastName": "Jha",
+                    "searchablePreferredName": "Rakesh Kumar Jha",
+                    "id": 37391835100
+                },
+                {
+                    "preferredName": "Shubha Jain",
+                    "normalizedName": "S. Jain",
+                    "firstName": "Shubha",
+                    "lastName": "Jain",
+                    "searchablePreferredName": "Shubha Jain",
+                    "id": 37088861741
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+            "publicationNumber": "6287639",
+            "doi": "10.1109/ACCESS.2020.3031234",
+            "publicationYear": "2021",
+            "publicationDate": "2021",
+            "isNumber": "9312710",
+            "ephemera": false,
+            "endPage": "67547",
+            "articleTitle": "A Survey on Beyond 5G Network With the Advent of 6G: Architecture and Emerging Technologies",
+            "documentLink": "/document/9224777/",
+            "volume": "9",
+            "pdfSize": "8919",
+            "articleNumber": "9224777",
+            "graphicalAbstract": {
+                "summary": "The paper presents a brief overview of the added features and key performance indicators of 5G NR. The issues related to the adaptation of higher modulation schemes and inter-RAT handover synchronization are well addressed in this paper. With the consideration of these challenges, a next-generation wireless communication architecture is proposed. The architecture acts as the platform for migration towards beyond 5G/6G networks. Along with this, various technologies and applications of 6G networks are also overviewed in this paper. 6G network will incorporate Artificial intelligence (AI) based services, edge computing, quantum computing, optical wireless communication, hybrid access, and tactile services. For enabling these diverse services, a virtualized network slicing based architecture of 6G is proposed.",
+                "type": "graphic",
+                "file": "/ielx7/6287639/9312710/9224777/graphical_abstract/access-gagraphic-3031234.jpg",
+                "coverImage": "/ielx7/6287639/9312710/9224777/graphical_abstract/access-gagraphic-3031234.jpg"
+            },
+            "startPage": "67512",
+            "citationCount": 303,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9224777/",
+            "downloadCount": 24327,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9224777/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9224777",
+            "displayPublicationTitle": "IEEE Access",
+            "isOnlineOnly": false,
+            "highlightedTitle": "A Survey on Beyond 5G Network With the Advent of 6G: Architecture and Emerging Technologies",
+            "abstract": "Nowadays, 5G is in its initial phase of commercialization. The 5G network will revolutionize the existing wireless network with its enhanced capabilities and novel features. 5G New Radio (5G NR), referred to as the global standardization of 5G, is presently under the 3rd Generation Partnership Project (3GPP) and can be operable over the wide range of frequency bands from less than 6GHz to mmWave (...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Access",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Jed Mills",
+                    "normalizedName": "J. Mills",
+                    "firstName": "Jed",
+                    "lastName": "Mills",
+                    "searchablePreferredName": "Jed Mills",
+                    "id": 37088440357
+                },
+                {
+                    "preferredName": "Jia Hu",
+                    "normalizedName": "J. Hu",
+                    "firstName": "Jia",
+                    "lastName": "Hu",
+                    "searchablePreferredName": "Jia Hu",
+                    "id": 37403960900
+                },
+                {
+                    "preferredName": "Geyong Min",
+                    "normalizedName": "G. Min",
+                    "firstName": "Geyong",
+                    "lastName": "Min",
+                    "searchablePreferredName": "Geyong Min",
+                    "id": 37284845200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6488907",
+            "publicationNumber": "6488907",
+            "doi": "10.1109/JIOT.2019.2956615",
+            "publicationYear": "2020",
+            "publicationDate": "July 2020",
+            "isNumber": "9138535",
+            "ephemera": false,
+            "endPage": "5994",
+            "articleTitle": "Communication-Efficient Federated Learning for Wireless Edge Intelligence in IoT",
+            "documentLink": "/document/8917724/",
+            "volume": "7",
+            "pdfSize": "851",
+            "articleNumber": "8917724",
+            "issue": "7",
+            "graphicalAbstract": {},
+            "startPage": "5986",
+            "citationCount": 294,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6488907&title=Communication-Efficient+Federated+Learning+for+Wireless+Edge+Intelligence+in+IoT&isbn=null&publicationDate=July+2020&author=Jed+Mills%3B+Jia+Hu%3B+Geyong+Min&ContentID=10.1109/JIOT.2019.2956615&orderBeanReset=true&startPage=5986&endPage=5994&volumeNum=7&issueNum=7",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/8917724/",
+            "downloadCount": 8596,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8917724/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8917724",
+            "displayPublicationTitle": "IEEE Internet of Things Journal",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Communication-Efficient Federated Learning for Wireless Edge Intelligence in IoT",
+            "abstract": "The rapidly expanding number of Internet of Things (IoT) devices is generating huge quantities of data, but public concern over data privacy means [::users::] are apprehensive to send data to a central server for machine learning (ML) purposes. The easily changed [::behaviors::] of edge infrastructure that software-defined networking (SDN) provides makes it possible to collate IoT data at edge ser...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Internet of Things Journal",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Md. Noor-A-Rahim",
+                    "normalizedName": "M. Noor-A-Rahim",
+                    "firstName": "Md.",
+                    "lastName": "Noor-A-Rahim",
+                    "searchablePreferredName": "Md. Noor-A-Rahim",
+                    "id": 37085401953
+                },
+                {
+                    "preferredName": "Zilong Liu",
+                    "normalizedName": "Z. Liu",
+                    "firstName": "Zilong",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Zilong Liu",
+                    "id": 38237686700
+                },
+                {
+                    "preferredName": "Haeyoung Lee",
+                    "normalizedName": "H. Lee",
+                    "firstName": "Haeyoung",
+                    "lastName": "Lee",
+                    "searchablePreferredName": "Haeyoung Lee",
+                    "id": 38469447200
+                },
+                {
+                    "preferredName": "Mohammad Omar Khyam",
+                    "normalizedName": "M. O. Khyam",
+                    "firstName": "Mohammad Omar",
+                    "lastName": "Khyam",
+                    "searchablePreferredName": "Mohammad Omar Khyam",
+                    "id": 38666912600
+                },
+                {
+                    "preferredName": "Jianhua He",
+                    "normalizedName": "J. He",
+                    "firstName": "Jianhua",
+                    "lastName": "He",
+                    "searchablePreferredName": "Jianhua He",
+                    "id": 37278607400
+                },
+                {
+                    "preferredName": "Dirk Pesch",
+                    "normalizedName": "D. Pesch",
+                    "firstName": "Dirk",
+                    "lastName": "Pesch",
+                    "searchablePreferredName": "Dirk Pesch",
+                    "id": 37271619300
+                },
+                {
+                    "preferredName": "Klaus Moessner",
+                    "normalizedName": "K. Moessner",
+                    "firstName": "Klaus",
+                    "lastName": "Moessner",
+                    "searchablePreferredName": "Klaus Moessner",
+                    "id": 37283643500
+                },
+                {
+                    "preferredName": "Walid Saad",
+                    "normalizedName": "W. Saad",
+                    "firstName": "Walid",
+                    "lastName": "Saad",
+                    "searchablePreferredName": "Walid Saad",
+                    "id": 37392237900
+                },
+                {
+                    "preferredName": "H. Vincent Poor",
+                    "normalizedName": "H. V. Poor",
+                    "firstName": "H. Vincent",
+                    "lastName": "Poor",
+                    "searchablePreferredName": "H. Vincent Poor",
+                    "id": 38558600000
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=5",
+            "publicationNumber": "5",
+            "doi": "10.1109/JPROC.2022.3173031",
+            "publicationYear": "2022",
+            "publicationDate": "June 2022",
+            "isNumber": "9788501",
+            "ephemera": false,
+            "endPage": "734",
+            "articleTitle": "6G for Vehicle-to-Everything (V2X) Communications: Enabling Technologies, Challenges, and Opportunities",
+            "documentLink": "/document/9779322/",
+            "volume": "110",
+            "pdfSize": "3830",
+            "articleNumber": "9779322",
+            "issue": "6",
+            "graphicalAbstract": {},
+            "startPage": "712",
+            "citationCount": 272,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9779322/",
+            "downloadCount": 24683,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9779322/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9779322",
+            "displayPublicationTitle": "Proceedings of the IEEE",
+            "isOnlineOnly": false,
+            "highlightedTitle": "6G for Vehicle-to-Everything (V2X) Communications: Enabling Technologies, Challenges, and Opportunities",
+            "abstract": "We are on the cusp of a new era of connected autonomous vehicles with unprecedented [::user::] experiences, tremendously improved road safety and air quality, highly diverse transportation environments and use cases, and a plethora of advanced applications. Realizing this grand vision requires a significantly enhanced vehicle-to-everything (V2X) communication network that should be extremely intel...",
+            "articleContentType": "Journals",
+            "publicationTitle": "Proceedings of the IEEE",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Ronald Mutegeki",
+                    "normalizedName": "R. Mutegeki",
+                    "firstName": "Ronald",
+                    "lastName": "Mutegeki",
+                    "searchablePreferredName": "Ronald Mutegeki",
+                    "id": 37087134510
+                },
+                {
+                    "preferredName": "Dong Seog Han",
+                    "normalizedName": "D. S. Han",
+                    "firstName": "Dong Seog",
+                    "lastName": "Han",
+                    "searchablePreferredName": "Dong Seog Han",
+                    "id": 37287051400
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationLink": "/xpl/conhome/9046688/proceeding",
+            "publicationNumber": "9046688",
+            "doi": "10.1109/ICAIIC48513.2020.9065078",
+            "publicationYear": "2020",
+            "publicationDate": "19-21 Feb. 2020",
+            "isNumber": "9064864",
+            "ephemera": false,
+            "endPage": "366",
+            "articleTitle": "A CNN-LSTM Approach to Human Activity Recognition",
+            "documentLink": "/document/9065078/",
+            "pdfSize": "453",
+            "articleNumber": "9065078",
+            "graphicalAbstract": {},
+            "startPage": "362",
+            "citationCount": 260,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=A+CNN-LSTM+Approach+to+Human+Activity+Recognition&isbn=null&publicationDate=19-21+Feb.+2020&author=Ronald+Mutegeki%3B+Dong+Seog+Han&ContentID=10.1109/ICAIIC48513.2020.9065078&orderBeanReset=true&startPage=362&endPage=366&proceedingName=2020+International+Conference+on+Artificial+Intelligence+in+Information+and+Communication+%28ICAIIC%29",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9065078/",
+            "downloadCount": 7774,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9065078/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Conferences",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9065078",
+            "displayPublicationTitle": "2020 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)",
+            "isOnlineOnly": false,
+            "highlightedTitle": "A CNN-LSTM Approach to Human Activity Recognition",
+            "abstract": "To understand human [::behavior::] and intrinsically anticipate human intentions, research into human activity recognition HAR) using sensors in wearable and handheld devices has intensified. The ability for a system to use as few resources as possible to recognize a [::user::]&#39;s activity from raw data is what many researchers are striving for. In this paper, we propose a holistic deep learning-ba...",
+            "articleContentType": "Conferences",
+            "publicationTitle": "2020 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": false,
+            "isConference": true,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Musaed Alhussein",
+                    "normalizedName": "M. Alhussein",
+                    "firstName": "Musaed",
+                    "lastName": "Alhussein",
+                    "searchablePreferredName": "Musaed Alhussein",
+                    "id": 37077798500
+                },
+                {
+                    "preferredName": "Khursheed Aurangzeb",
+                    "normalizedName": "K. Aurangzeb",
+                    "firstName": "Khursheed",
+                    "lastName": "Aurangzeb",
+                    "searchablePreferredName": "Khursheed Aurangzeb",
+                    "id": 37086360432
+                },
+                {
+                    "preferredName": "Syed Irtaza Haider",
+                    "normalizedName": "S. I. Haider",
+                    "firstName": "Syed Irtaza",
+                    "lastName": "Haider",
+                    "searchablePreferredName": "Syed Irtaza Haider",
+                    "id": 37085545678
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+            "publicationNumber": "6287639",
+            "doi": "10.1109/ACCESS.2020.3028281",
+            "publicationYear": "2020",
+            "publicationDate": "2020",
+            "isNumber": "8948470",
+            "ephemera": false,
+            "endPage": "180557",
+            "articleTitle": "Hybrid CNN-LSTM Model for Short-Term Individual Household Load Forecasting",
+            "documentLink": "/document/9210478/",
+            "volume": "8",
+            "pdfSize": "6259",
+            "articleNumber": "9210478",
+            "graphicalAbstract": {
+                "summary": "Power Load Forecasting of the Three Customers for the Proposed Model and its Comparison with the LSTM model.",
+                "type": "graphic",
+                "file": "/ielx7/6287639/8948470/9210478/graphical_abstract/access-gagraphic-3028281.jpg",
+                "coverImage": "/ielx7/6287639/8948470/9210478/graphical_abstract/access-gagraphic-3028281.jpg"
+            },
+            "startPage": "180544",
+            "citationCount": 255,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9210478/",
+            "downloadCount": 15023,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9210478/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9210478",
+            "displayPublicationTitle": "IEEE Access",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Hybrid CNN-LSTM Model for Short-Term Individual Household Load Forecasting",
+            "abstract": "Power grids are transforming into flexible, smart, and cooperative systems with greater dissemination of distributed energy resources, advanced metering infrastructure, and advanced communication technologies. Short-term electric load forecasting for individual residential customers plays a progressively crucial role in the operation and planning of future grids. Compared to the aggregated electri...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Access",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Julian Bock",
+                    "normalizedName": "J. Bock",
+                    "firstName": "Julian",
+                    "lastName": "Bock",
+                    "searchablePreferredName": "Julian Bock",
+                    "id": 37086543949
+                },
+                {
+                    "preferredName": "Robert Krajewski",
+                    "normalizedName": "R. Krajewski",
+                    "firstName": "Robert",
+                    "lastName": "Krajewski",
+                    "searchablePreferredName": "Robert Krajewski",
+                    "id": 37085847898
+                },
+                {
+                    "preferredName": "Tobias Moers",
+                    "normalizedName": "T. Moers",
+                    "firstName": "Tobias",
+                    "lastName": "Moers",
+                    "searchablePreferredName": "Tobias Moers",
+                    "id": 37086545453
+                },
+                {
+                    "preferredName": "Steffen Runde",
+                    "normalizedName": "S. Runde",
+                    "firstName": "Steffen",
+                    "lastName": "Runde",
+                    "searchablePreferredName": "Steffen Runde",
+                    "id": 37088650089
+                },
+                {
+                    "preferredName": "Lennart Vater",
+                    "normalizedName": "L. Vater",
+                    "firstName": "Lennart",
+                    "lastName": "Vater",
+                    "searchablePreferredName": "Lennart Vater",
+                    "id": 37088596439
+                },
+                {
+                    "preferredName": "Lutz Eckstein",
+                    "normalizedName": "L. Eckstein",
+                    "firstName": "Lutz",
+                    "lastName": "Eckstein",
+                    "searchablePreferredName": "Lutz Eckstein",
+                    "id": 37598017400
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationLink": "/xpl/conhome/9304518/proceeding",
+            "publicationNumber": "9304518",
+            "doi": "10.1109/IV47402.2020.9304839",
+            "publicationYear": "2020",
+            "publicationDate": "19 Oct.-13 Nov. 2020",
+            "isNumber": "9304528",
+            "ephemera": false,
+            "endPage": "1934",
+            "articleTitle": "The inD Dataset: A Drone Dataset of Naturalistic Road User Trajectories at German Intersections",
+            "documentLink": "/document/9304839/",
+            "pdfSize": "4070",
+            "articleNumber": "9304839",
+            "graphicalAbstract": {},
+            "startPage": "1929",
+            "citationCount": 216,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=The+inD+Dataset%3A+A+Drone+Dataset+of+Naturalistic+Road+User+Trajectories+at+German+Intersections&isbn=null&publicationDate=19+Oct.-13+Nov.+2020&author=Julian+Bock%3B+Robert+Krajewski%3B+Tobias+Moers%3B+Steffen+Runde%3B+Lennart+Vater%3B+Lutz+Eckstein&ContentID=10.1109/IV47402.2020.9304839&orderBeanReset=true&startPage=1929&endPage=1934&proceedingName=2020+IEEE+Intelligent+Vehicles+Symposium+%28IV%29",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9304839/",
+            "downloadCount": 4667,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9304839/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Conferences",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9304839",
+            "displayPublicationTitle": "2020 IEEE Intelligent Vehicles Symposium (IV)",
+            "isOnlineOnly": false,
+            "highlightedTitle": "The inD Dataset: A Drone Dataset of Naturalistic Road [::User::] Trajectories at German Intersections",
+            "abstract": "Automated vehicles rely heavily on data-driven methods, especially for complex urban environments. Large datasets of real world measurement data in the form of road [::user::] trajectories are crucial for several tasks like road [::user::] prediction models or scenario-based safety validation. So far, though, this demand is unmet as no public dataset of urban road [::user::] trajectories is availa...",
+            "articleContentType": "Conferences",
+            "publicationTitle": "2020 IEEE Intelligent Vehicles Symposium (IV)",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": false,
+            "isConference": true,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "M. Kavitha",
+                    "normalizedName": "M. Kavitha",
+                    "firstName": "M.",
+                    "lastName": "Kavitha",
+                    "searchablePreferredName": "M. Kavitha",
+                    "id": 37088762691
+                },
+                {
+                    "preferredName": "G. Gnaneswar",
+                    "normalizedName": "G. Gnaneswar",
+                    "firstName": "G.",
+                    "lastName": "Gnaneswar",
+                    "searchablePreferredName": "G. Gnaneswar",
+                    "id": 37088763155
+                },
+                {
+                    "preferredName": "R. Dinesh",
+                    "normalizedName": "R. Dinesh",
+                    "firstName": "R.",
+                    "lastName": "Dinesh",
+                    "searchablePreferredName": "R. Dinesh",
+                    "id": 37088762031
+                },
+                {
+                    "preferredName": "Y. Rohith Sai",
+                    "normalizedName": "Y. R. Sai",
+                    "firstName": "Y. Rohith",
+                    "lastName": "Sai",
+                    "searchablePreferredName": "Y. Rohith Sai",
+                    "id": 37088762985
+                },
+                {
+                    "preferredName": "R. Sai Suraj",
+                    "normalizedName": "R. S. Suraj",
+                    "firstName": "R. Sai",
+                    "lastName": "Suraj",
+                    "searchablePreferredName": "R. Sai Suraj",
+                    "id": 37088761908
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationLink": "/xpl/conhome/9358464/proceeding",
+            "publicationNumber": "9358464",
+            "doi": "10.1109/ICICT50816.2021.9358597",
+            "publicationYear": "2021",
+            "publicationDate": "20-22 Jan. 2021",
+            "isNumber": "9358467",
+            "ephemera": false,
+            "endPage": "1333",
+            "articleTitle": "Heart Disease Prediction using Hybrid machine Learning Model",
+            "documentLink": "/document/9358597/",
+            "pdfSize": "1594",
+            "articleNumber": "9358597",
+            "graphicalAbstract": {},
+            "startPage": "1329",
+            "citationCount": 210,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Heart+Disease+Prediction+using+Hybrid+machine+Learning+Model&isbn=null&publicationDate=20-22+Jan.+2021&author=M.+Kavitha%3B+G.+Gnaneswar%3B+R.+Dinesh%3B+Y.+Rohith+Sai%3B+R.+Sai+Suraj&ContentID=10.1109/ICICT50816.2021.9358597&orderBeanReset=true&startPage=1329&endPage=1333&proceedingName=2021+6th+International+Conference+on+Inventive+Computation+Technologies+%28ICICT%29",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9358597/",
+            "downloadCount": 5397,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9358597/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Conferences",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9358597",
+            "displayPublicationTitle": "2021 6th International Conference on Inventive Computation Technologies (ICICT)",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Heart Disease Prediction using Hybrid machine Learning Model",
+            "abstract": "Heart disease causes a significant mortality rate around the world, and it has become a health threat for many people. Early prediction of heart disease may save many lives; detecting cardiovascular diseases like heart attacks, coronary artery diseases etc., is a critical challenge by the regular clinical data analysis. Machine learning (ML) can bring an effective solution for decision making and ...",
+            "articleContentType": "Conferences",
+            "publicationTitle": "2021 6th International Conference on Inventive Computation Technologies (ICICT)",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": false,
+            "isConference": true,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "W. S. H. M. W. Ahmad",
+                    "normalizedName": "W. S. H. M. W. Ahmad",
+                    "firstName": "W. S. H. M. W.",
+                    "lastName": "Ahmad",
+                    "searchablePreferredName": "W. S. H. M. W. Ahmad",
+                    "id": 37086933582
+                },
+                {
+                    "preferredName": "N. A. M. Radzi",
+                    "normalizedName": "N. A. M. Radzi",
+                    "firstName": "N. A. M.",
+                    "lastName": "Radzi",
+                    "searchablePreferredName": "N. A. M. Radzi",
+                    "id": 38317928500
+                },
+                {
+                    "preferredName": "F. S. Samidi",
+                    "normalizedName": "F. S. Samidi",
+                    "firstName": "F. S.",
+                    "lastName": "Samidi",
+                    "searchablePreferredName": "F. S. Samidi",
+                    "id": 37087323711
+                },
+                {
+                    "preferredName": "A. Ismail",
+                    "normalizedName": "A. Ismail",
+                    "firstName": "A.",
+                    "lastName": "Ismail",
+                    "searchablePreferredName": "A. Ismail",
+                    "id": 37401178000
+                },
+                {
+                    "preferredName": "F. Abdullah",
+                    "normalizedName": "F. Abdullah",
+                    "firstName": "F.",
+                    "lastName": "Abdullah",
+                    "searchablePreferredName": "F. Abdullah",
+                    "id": 37602991000
+                },
+                {
+                    "preferredName": "M. Z. Jamaludin",
+                    "normalizedName": "M. Z. Jamaludin",
+                    "firstName": "M. Z.",
+                    "lastName": "Jamaludin",
+                    "searchablePreferredName": "M. Z. Jamaludin",
+                    "id": 37396966100
+                },
+                {
+                    "preferredName": "M. N. Zakaria",
+                    "normalizedName": "M. N. Zakaria",
+                    "firstName": "M. N.",
+                    "lastName": "Zakaria",
+                    "searchablePreferredName": "M. N. Zakaria",
+                    "id": 37086933594
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+            "publicationNumber": "6287639",
+            "doi": "10.1109/ACCESS.2020.2966271",
+            "publicationYear": "2020",
+            "publicationDate": "2020",
+            "isNumber": "8948470",
+            "ephemera": false,
+            "endPage": "14488",
+            "articleTitle": "5G Technology: Towards Dynamic Spectrum Sharing Using Cognitive Radio Networks",
+            "documentLink": "/document/8957541/",
+            "volume": "8",
+            "pdfSize": "4706",
+            "articleNumber": "8957541",
+            "graphicalAbstract": {
+                "summary": "This figure illustrates the in-depth classification of three main SS approaches towards 5G development: network architecture, spectrum allocation behaviour and spectrum access method. Network architecture can be centralised (infrastructure-oriented) or distributed (infrastructure-less). Spectrum allocation behaviour can be in a cooperative or non-cooperative manner. Spectrum access method is either dynamic exclusive, open access or hierarchical model.",
+                "type": "graphic",
+                "file": "/ielx7/6287639/8948470/8957541/graphical_abstract/access-gagraphic-2966271.jpg",
+                "coverImage": "/ielx7/6287639/8948470/8957541/graphical_abstract/access-gagraphic-2966271.jpg"
+            },
+            "startPage": "14460",
+            "citationCount": 209,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/8957541/",
+            "downloadCount": 18093,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/8957541/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8957541",
+            "displayPublicationTitle": "IEEE Access",
+            "isOnlineOnly": false,
+            "highlightedTitle": "5G Technology: Towards Dynamic Spectrum Sharing Using Cognitive Radio Networks",
+            "abstract": "The explosive popularity of small-cell and Internet of Everything devices has tremendously increased traffic loads. This increase has revolutionised the current network into 5G technology, which demands increased capacity, high data rate and ultra-low latency. Two of the research focus areas for meeting these demands are exploring the spectrum resource and maximising the utilisation of its bands. ...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Access",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Min Xia",
+                    "normalizedName": "M. Xia",
+                    "firstName": "Min",
+                    "lastName": "Xia",
+                    "searchablePreferredName": "Min Xia",
+                    "id": 37085391094
+                },
+                {
+                    "preferredName": "Haidong Shao",
+                    "normalizedName": "H. Shao",
+                    "firstName": "Haidong",
+                    "lastName": "Shao",
+                    "searchablePreferredName": "Haidong Shao",
+                    "id": 37086963893
+                },
+                {
+                    "preferredName": "Xiandong Ma",
+                    "normalizedName": "X. Ma",
+                    "firstName": "Xiandong",
+                    "lastName": "Ma",
+                    "searchablePreferredName": "Xiandong Ma",
+                    "id": 37279526700
+                },
+                {
+                    "preferredName": "Clarence W. de Silva",
+                    "normalizedName": "C. W. de Silva",
+                    "firstName": "Clarence W.",
+                    "lastName": "de Silva",
+                    "searchablePreferredName": "Clarence W. de Silva",
+                    "id": 37271099500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=9424",
+            "publicationNumber": "9424",
+            "doi": "10.1109/TII.2021.3056867",
+            "publicationYear": "2021",
+            "publicationDate": "Oct. 2021",
+            "isNumber": "9480159",
+            "ephemera": false,
+            "endPage": "7059",
+            "articleTitle": "A Stacked GRU-RNN-Based Approach for Predicting Renewable Energy and Electricity Load for Smart Grid Operation",
+            "documentLink": "/document/9347810/",
+            "volume": "17",
+            "pdfSize": "5806",
+            "articleNumber": "9347810",
+            "issue": "10",
+            "graphicalAbstract": {},
+            "startPage": "7050",
+            "citationCount": 209,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=9424&title=A+Stacked+GRU-RNN-Based+Approach+for+Predicting+Renewable+Energy+and+Electricity+Load+for+Smart+Grid+Operation&isbn=null&publicationDate=Oct.+2021&author=Min+Xia%3B+Haidong+Shao%3B+Xiandong+Ma%3B+Clarence+W.+de+Silva&ContentID=10.1109/TII.2021.3056867&orderBeanReset=true&startPage=7050&endPage=7059&volumeNum=17&issueNum=10",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9347810/",
+            "downloadCount": 3790,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9347810/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9347810",
+            "displayPublicationTitle": "IEEE Transactions on Industrial Informatics",
+            "isOnlineOnly": false,
+            "highlightedTitle": "A Stacked GRU-RNN-Based Approach for Predicting Renewable Energy and Electricity Load for Smart Grid Operation",
+            "abstract": "Predictions of renewable energy (RE) generation and electricity load are critical to smart grid operation. However, the prediction task remains challenging due to the intermittent and chaotic character of RE sources, and the diverse [::user::] [::behavior::] and power consumers. This article presents a novel method for the prediction of RE generation and electricity load using improved stacked gat...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Industrial Informatics",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Kaouther Messaoud",
+                    "normalizedName": "K. Messaoud",
+                    "firstName": "Kaouther",
+                    "lastName": "Messaoud",
+                    "searchablePreferredName": "Kaouther Messaoud",
+                    "id": 37086962243
+                },
+                {
+                    "preferredName": "Itheri Yahiaoui",
+                    "normalizedName": "I. Yahiaoui",
+                    "firstName": "Itheri",
+                    "lastName": "Yahiaoui",
+                    "searchablePreferredName": "Itheri Yahiaoui",
+                    "id": 37563857400
+                },
+                {
+                    "preferredName": "Anne Verroust-Blondet",
+                    "normalizedName": "A. Verroust-Blondet",
+                    "firstName": "Anne",
+                    "lastName": "Verroust-Blondet",
+                    "searchablePreferredName": "Anne Verroust-Blondet",
+                    "id": 38272518100
+                },
+                {
+                    "preferredName": "Fawzi Nashashibi",
+                    "normalizedName": "F. Nashashibi",
+                    "firstName": "Fawzi",
+                    "lastName": "Nashashibi",
+                    "searchablePreferredName": "Fawzi Nashashibi",
+                    "id": 38492117500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=7274857",
+            "publicationNumber": "7274857",
+            "doi": "10.1109/TIV.2020.2991952",
+            "publicationYear": "2021",
+            "publicationDate": "March 2021",
+            "isNumber": "9361468",
+            "ephemera": false,
+            "endPage": "185",
+            "articleTitle": "Attention Based Vehicle Trajectory Prediction",
+            "documentLink": "/document/9084255/",
+            "volume": "6",
+            "pdfSize": "2367",
+            "articleNumber": "9084255",
+            "issue": "1",
+            "graphicalAbstract": {},
+            "startPage": "175",
+            "citationCount": 199,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7274857&title=Attention+Based+Vehicle+Trajectory+Prediction&isbn=null&publicationDate=March+2021&author=Kaouther+Messaoud%3B+Itheri+Yahiaoui%3B+Anne+Verroust-Blondet%3B+Fawzi+Nashashibi&ContentID=10.1109/TIV.2020.2991952&orderBeanReset=true&startPage=175&endPage=185&volumeNum=6&issueNum=1",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9084255/",
+            "downloadCount": 6743,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9084255/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9084255",
+            "displayPublicationTitle": "IEEE Transactions on Intelligent Vehicles",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Attention Based Vehicle Trajectory Prediction",
+            "abstract": "Self-driving vehicles need to continuously analyse the driving scene, understand the [::behavior::] of other road [::users::] and predict their future trajectories in order to plan a safe motion and reduce their reaction time. Motivated by this idea, this paper addresses the problem of vehicle trajectory prediction over an extended horizon. On highways, human drivers continuously adapt their speed...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Intelligent Vehicles",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Muhammad Saad",
+                    "normalizedName": "M. Saad",
+                    "firstName": "Muhammad",
+                    "lastName": "Saad",
+                    "searchablePreferredName": "Muhammad Saad",
+                    "id": 37086422472
+                },
+                {
+                    "preferredName": "Jeffrey Spaulding",
+                    "normalizedName": "J. Spaulding",
+                    "firstName": "Jeffrey",
+                    "lastName": "Spaulding",
+                    "searchablePreferredName": "Jeffrey Spaulding",
+                    "id": 37086064607
+                },
+                {
+                    "preferredName": "Laurent Njilla",
+                    "normalizedName": "L. Njilla",
+                    "firstName": "Laurent",
+                    "lastName": "Njilla",
+                    "searchablePreferredName": "Laurent Njilla",
+                    "id": 37085453331
+                },
+                {
+                    "preferredName": "Charles Kamhoua",
+                    "normalizedName": "C. Kamhoua",
+                    "firstName": "Charles",
+                    "lastName": "Kamhoua",
+                    "searchablePreferredName": "Charles Kamhoua",
+                    "id": 37704581200
+                },
+                {
+                    "preferredName": "Sachin Shetty",
+                    "normalizedName": "S. Shetty",
+                    "firstName": "Sachin",
+                    "lastName": "Shetty",
+                    "searchablePreferredName": "Sachin Shetty",
+                    "id": 37306356900
+                },
+                {
+                    "preferredName": "DaeHun Nyang",
+                    "normalizedName": "D. Nyang",
+                    "firstName": "DaeHun",
+                    "lastName": "Nyang",
+                    "searchablePreferredName": "DaeHun Nyang",
+                    "id": 37272045800
+                },
+                {
+                    "preferredName": "David Mohaisen",
+                    "normalizedName": "D. Mohaisen",
+                    "firstName": "David",
+                    "lastName": "Mohaisen",
+                    "searchablePreferredName": "David Mohaisen",
+                    "id": 37088214539
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=9739",
+            "publicationNumber": "9739",
+            "doi": "10.1109/COMST.2020.2975999",
+            "publicationYear": "2020",
+            "publicationDate": "thirdquarter 2020",
+            "isNumber": "9173582",
+            "ephemera": false,
+            "endPage": "2008",
+            "articleTitle": "Exploring the Attack Surface of Blockchain: A Comprehensive Survey",
+            "documentLink": "/document/9019870/",
+            "volume": "22",
+            "pdfSize": "4019",
+            "articleNumber": "9019870",
+            "issue": "3",
+            "graphicalAbstract": {},
+            "startPage": "1977",
+            "citationCount": 197,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=9739&title=Exploring+the+Attack+Surface+of+Blockchain%3A+A+Comprehensive+Survey&isbn=null&publicationDate=thirdquarter+2020&author=Muhammad+Saad%3B+Jeffrey+Spaulding%3B+Laurent+Njilla%3B+Charles+Kamhoua%3B+Sachin+Shetty%3B+DaeHun+Nyang%3B+David+Mohaisen&ContentID=10.1109/COMST.2020.2975999&orderBeanReset=true&startPage=1977&endPage=2008&volumeNum=22&issueNum=3",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9019870/",
+            "downloadCount": 5467,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9019870/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9019870",
+            "displayPublicationTitle": "IEEE Communications Surveys & Tutorials",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Exploring the Attack Surface of Blockchain: A Comprehensive Survey",
+            "abstract": "In this paper, we systematically explore the attack surface of the Blockchain technology, with an emphasis on public Blockchains. Towards this goal, we attribute attack viability in the attack surface to 1) the Blockchain cryptographic constructs, 2) the distributed architecture of the systems using Blockchain, and 3) the Blockchain application context. To each of those contributing factors, we ou...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Communications Surveys & Tutorials",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Sultan Zavrak",
+                    "normalizedName": "S. Zavrak",
+                    "firstName": "Sultan",
+                    "lastName": "Zavrak",
+                    "searchablePreferredName": "Sultan Zavrak",
+                    "id": 38466462200
+                },
+                {
+                    "preferredName": "Murat İskefiyeli",
+                    "normalizedName": "M. İskefiyeli",
+                    "firstName": "Murat",
+                    "lastName": "İskefiyeli",
+                    "searchablePreferredName": "Murat İskefiyeli",
+                    "id": 37086735038
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+            "publicationNumber": "6287639",
+            "doi": "10.1109/ACCESS.2020.3001350",
+            "publicationYear": "2020",
+            "publicationDate": "2020",
+            "isNumber": "8948470",
+            "ephemera": false,
+            "endPage": "108358",
+            "articleTitle": "Anomaly-Based Intrusion Detection From Network Flow Features Using Variational Autoencoder",
+            "documentLink": "/document/9113298/",
+            "volume": "8",
+            "pdfSize": "7281",
+            "articleNumber": "9113298",
+            "graphicalAbstract": {
+                "summary": "The Semi-Supervised Learning Strategy.",
+                "type": "graphic",
+                "file": "/ielx7/6287639/8948470/9113298/graphical_abstract/access-gagraphic-3001350.jpg",
+                "coverImage": "/ielx7/6287639/8948470/9113298/graphical_abstract/access-gagraphic-3001350.jpg"
+            },
+            "startPage": "108346",
+            "citationCount": 171,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9113298/",
+            "downloadCount": 10539,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9113298/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9113298",
+            "displayPublicationTitle": "IEEE Access",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Anomaly-Based Intrusion Detection From Network Flow Features Using Variational Autoencoder",
+            "abstract": "The rapid increase in network traffic has recently led to the importance of flow-based intrusion detection systems processing a small amount of traffic data. Furthermore, anomaly-based methods, which can identify unknown attacks are also integrated into these systems. In this study, the focus is concentrated on the detection of anomalous network traffic (or intrusions) from flow-based data using u...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Access",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xu Xie",
+                    "normalizedName": "X. Xie",
+                    "firstName": "Xu",
+                    "lastName": "Xie",
+                    "searchablePreferredName": "Xu Xie",
+                    "id": 37088891832
+                },
+                {
+                    "preferredName": "Fei Sun",
+                    "normalizedName": "F. Sun",
+                    "firstName": "Fei",
+                    "lastName": "Sun",
+                    "searchablePreferredName": "Fei Sun",
+                    "id": 37086806433
+                },
+                {
+                    "preferredName": "Zhaoyang Liu",
+                    "normalizedName": "Z. Liu",
+                    "firstName": "Zhaoyang",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Zhaoyang Liu",
+                    "id": 37089474270
+                },
+                {
+                    "preferredName": "Shiwen Wu",
+                    "normalizedName": "S. Wu",
+                    "firstName": "Shiwen",
+                    "lastName": "Wu",
+                    "searchablePreferredName": "Shiwen Wu",
+                    "id": 37089237384
+                },
+                {
+                    "preferredName": "Jinyang Gao",
+                    "normalizedName": "J. Gao",
+                    "firstName": "Jinyang",
+                    "lastName": "Gao",
+                    "searchablePreferredName": "Jinyang Gao",
+                    "id": 37088891839
+                },
+                {
+                    "preferredName": "Jiandong Zhang",
+                    "normalizedName": "J. Zhang",
+                    "firstName": "Jiandong",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Jiandong Zhang",
+                    "id": 37089475390
+                },
+                {
+                    "preferredName": "Bolin Ding",
+                    "normalizedName": "B. Ding",
+                    "firstName": "Bolin",
+                    "lastName": "Ding",
+                    "searchablePreferredName": "Bolin Ding",
+                    "id": 37393771600
+                },
+                {
+                    "preferredName": "Bin Cui",
+                    "normalizedName": "B. Cui",
+                    "firstName": "Bin",
+                    "lastName": "Cui",
+                    "searchablePreferredName": "Bin Cui",
+                    "id": 37397308200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationLink": "/xpl/conhome/9835153/proceeding",
+            "publicationNumber": "9835153",
+            "doi": "10.1109/ICDE53745.2022.00099",
+            "publicationYear": "2022",
+            "publicationDate": "9-12 May 2022",
+            "isNumber": "9835154",
+            "ephemera": false,
+            "endPage": "1273",
+            "articleTitle": "Contrastive Learning for Sequential Recommendation",
+            "documentLink": "/document/9835621/",
+            "pdfSize": "306",
+            "articleNumber": "9835621",
+            "graphicalAbstract": {},
+            "startPage": "1259",
+            "citationCount": 168,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Contrastive+Learning+for+Sequential+Recommendation&isbn=null&publicationDate=9-12+May+2022&author=Xu+Xie%3B+Fei+Sun%3B+Zhaoyang+Liu%3B+Shiwen+Wu%3B+Jinyang+Gao%3B+Jiandong+Zhang%3B+Bolin+Ding%3B+Bin+Cui&ContentID=10.1109/ICDE53745.2022.00099&orderBeanReset=true&startPage=1259&endPage=1273&proceedingName=2022+IEEE+38th+International+Conference+on+Data+Engineering+%28ICDE%29",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9835621/",
+            "downloadCount": 5145,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9835621/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Conferences",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9835621",
+            "displayPublicationTitle": "2022 IEEE 38th International Conference on Data Engineering (ICDE)",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Contrastive Learning for Sequential Recommendation",
+            "abstract": "Sequential recommendation methods play a crucial role in modern recommender systems because of their ability to capture a [::user::]&#39;s dynamic interest from her/his historical inter-actions. Despite their success, we argue that these approaches usually rely on the sequential prediction task to optimize the huge amounts of parameters. They usually suffer from the data sparsity problem, which makes ...",
+            "articleContentType": "Conferences",
+            "publicationTitle": "2022 IEEE 38th International Conference on Data Engineering (ICDE)",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": false,
+            "isConference": true,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Conferences",
+            "isStandard": false,
+            "displayContentType": "Conference Paper",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xiaoyuan Liu",
+                    "normalizedName": "X. Liu",
+                    "firstName": "Xiaoyuan",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Xiaoyuan Liu",
+                    "id": 37088463709
+                },
+                {
+                    "preferredName": "Hongwei Li",
+                    "normalizedName": "H. Li",
+                    "firstName": "Hongwei",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Hongwei Li",
+                    "id": 37935513600
+                },
+                {
+                    "preferredName": "Guowen Xu",
+                    "normalizedName": "G. Xu",
+                    "firstName": "Guowen",
+                    "lastName": "Xu",
+                    "searchablePreferredName": "Guowen Xu",
+                    "id": 37085809726
+                },
+                {
+                    "preferredName": "Zongqi Chen",
+                    "normalizedName": "Z. Chen",
+                    "firstName": "Zongqi",
+                    "lastName": "Chen",
+                    "searchablePreferredName": "Zongqi Chen",
+                    "id": 37088488297
+                },
+                {
+                    "preferredName": "Xiaoming Huang",
+                    "normalizedName": "X. Huang",
+                    "firstName": "Xiaoming",
+                    "lastName": "Huang",
+                    "searchablePreferredName": "Xiaoming Huang",
+                    "id": 37088577403
+                },
+                {
+                    "preferredName": "Rongxing Lu",
+                    "normalizedName": "R. Lu",
+                    "firstName": "Rongxing",
+                    "lastName": "Lu",
+                    "searchablePreferredName": "Rongxing Lu",
+                    "id": 37309741500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=10206",
+            "publicationNumber": "10206",
+            "doi": "10.1109/TIFS.2021.3108434",
+            "publicationYear": "2021",
+            "publicationDate": "2021",
+            "isNumber": "9151439",
+            "ephemera": false,
+            "endPage": "4588",
+            "articleTitle": "Privacy-Enhanced Federated Learning Against Poisoning Adversaries",
+            "documentLink": "/document/9524709/",
+            "volume": "16",
+            "pdfSize": "2989",
+            "articleNumber": "9524709",
+            "graphicalAbstract": {},
+            "startPage": "4574",
+            "citationCount": 166,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=10206&title=Privacy-Enhanced+Federated+Learning+Against+Poisoning+Adversaries&isbn=null&publicationDate=2021&author=Xiaoyuan+Liu%3B+Hongwei+Li%3B+Guowen+Xu%3B+Zongqi+Chen%3B+Xiaoming+Huang%3B+Rongxing+Lu&ContentID=10.1109/TIFS.2021.3108434&orderBeanReset=true&startPage=4574&endPage=4588&volumeNum=16",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9524709/",
+            "downloadCount": 7557,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9524709/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9524709",
+            "displayPublicationTitle": "IEEE Transactions on Information Forensics and Security",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Privacy-Enhanced Federated Learning Against Poisoning Adversaries",
+            "abstract": "Federated learning (FL), as a distributed machine learning setting, has received considerable attention in recent years. To alleviate privacy concerns, FL essentially promises that multiple parties jointly train the model by exchanging gradients rather than raw data. However, intrinsic privacy issue still exists in FL, e.g., [::user::]’s training samples could be revealed by solely inferring gradi...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Information Forensics and Security",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Changyan Yi",
+                    "normalizedName": "C. Yi",
+                    "firstName": "Changyan",
+                    "lastName": "Yi",
+                    "searchablePreferredName": "Changyan Yi",
+                    "id": 37085345374
+                },
+                {
+                    "preferredName": "Jun Cai",
+                    "normalizedName": "J. Cai",
+                    "firstName": "Jun",
+                    "lastName": "Cai",
+                    "searchablePreferredName": "Jun Cai",
+                    "id": 37278618800
+                },
+                {
+                    "preferredName": "Zhou Su",
+                    "normalizedName": "Z. Su",
+                    "firstName": "Zhou",
+                    "lastName": "Su",
+                    "searchablePreferredName": "Zhou Su",
+                    "id": 37085423294
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=7755",
+            "publicationNumber": "7755",
+            "doi": "10.1109/TMC.2019.2891736",
+            "publicationYear": "2020",
+            "publicationDate": "1 Jan. 2020",
+            "isNumber": "8922833",
+            "ephemera": false,
+            "endPage": "43",
+            "articleTitle": "A Multi-User Mobile Computation Offloading and Transmission Scheduling Mechanism for Delay-Sensitive Applications",
+            "documentLink": "/document/8606230/",
+            "volume": "19",
+            "pdfSize": "984",
+            "articleNumber": "8606230",
+            "issue": "1",
+            "graphicalAbstract": {
+                "type": "graphic",
+                "file": "/ielx7/7755/8922833/8606230/graphical_abstract/tmc-gagraphic-2891736.jpg",
+                "coverImage": "/ielx7/7755/8922833/8606230/graphical_abstract/tmc-gagraphic-2891736.jpg"
+            },
+            "startPage": "29",
+            "citationCount": 164,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7755&title=A+Multi-User+Mobile+Computation+Offloading+and+Transmission+Scheduling+Mechanism+for+Delay-Sensitive+Applications&isbn=null&publicationDate=1+Jan.+2020&author=Changyan+Yi%3B+Jun+Cai%3B+Zhou+Su&ContentID=10.1109/TMC.2019.2891736&orderBeanReset=true&startPage=29&endPage=43&volumeNum=19&issueNum=1",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/8606230/",
+            "downloadCount": 4094,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8606230/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8606230",
+            "displayPublicationTitle": "IEEE Transactions on Mobile Computing",
+            "isOnlineOnly": false,
+            "highlightedTitle": "A Multi-[::User::] Mobile Computation Offloading and Transmission Scheduling Mechanism for Delay-Sensitive Applications",
+            "abstract": "In this paper, a mobile edge computing framework with multi-[::user::] computation offloading and transmission scheduling for delay-sensitive applications is studied. In the considered model, computation tasks are generated randomly at mobile [::users::] along the time. For each task, the mobile [::user::] can choose to either process it locally or offload it via the uplink transmission to the edg...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Mobile Computing",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Ahmed A. Abd El-Latif",
+                    "normalizedName": "A. A. A. El-Latif",
+                    "firstName": "Ahmed A. Abd",
+                    "lastName": "El-Latif",
+                    "searchablePreferredName": "Ahmed A. Abd El-Latif",
+                    "id": 38317272400
+                },
+                {
+                    "preferredName": "Bassem Abd-El-Atty",
+                    "normalizedName": "B. Abd-El-Atty",
+                    "firstName": "Bassem",
+                    "lastName": "Abd-El-Atty",
+                    "searchablePreferredName": "Bassem Abd-El-Atty",
+                    "id": 37086224084
+                },
+                {
+                    "preferredName": "Wojciech Mazurczyk",
+                    "normalizedName": "W. Mazurczyk",
+                    "firstName": "Wojciech",
+                    "lastName": "Mazurczyk",
+                    "searchablePreferredName": "Wojciech Mazurczyk",
+                    "id": 37589655900
+                },
+                {
+                    "preferredName": "Carol Fung",
+                    "normalizedName": "C. Fung",
+                    "firstName": "Carol",
+                    "lastName": "Fung",
+                    "searchablePreferredName": "Carol Fung",
+                    "id": 37085375874
+                },
+                {
+                    "preferredName": "Salvador E. Venegas-Andraca",
+                    "normalizedName": "S. E. Venegas-Andraca",
+                    "firstName": "Salvador E.",
+                    "lastName": "Venegas-Andraca",
+                    "searchablePreferredName": "Salvador E. Venegas-Andraca",
+                    "id": 37085611798
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=4275028",
+            "publicationNumber": "4275028",
+            "doi": "10.1109/TNSM.2020.2969863",
+            "publicationYear": "2020",
+            "publicationDate": "March 2020",
+            "isNumber": "9032249",
+            "ephemera": false,
+            "endPage": "131",
+            "articleTitle": "Secure Data Encryption Based on Quantum Walks for 5G Internet of Things Scenario",
+            "documentLink": "/document/8972594/",
+            "volume": "17",
+            "pdfSize": "3829",
+            "articleNumber": "8972594",
+            "issue": "1",
+            "graphicalAbstract": {},
+            "startPage": "118",
+            "citationCount": 164,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=4275028&title=Secure+Data+Encryption+Based+on+Quantum+Walks+for+5G+Internet+of+Things+Scenario&isbn=null&publicationDate=March+2020&author=Ahmed+A.+Abd+El-Latif%3B+Bassem+Abd-El-Atty%3B+Wojciech+Mazurczyk%3B+Carol+Fung%3B+Salvador+E.+Venegas-Andraca&ContentID=10.1109/TNSM.2020.2969863&orderBeanReset=true&startPage=118&endPage=131&volumeNum=17&issueNum=1",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/8972594/",
+            "downloadCount": 2312,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8972594/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8972594",
+            "displayPublicationTitle": "IEEE Transactions on Network and Service Management",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Secure Data Encryption Based on Quantum Walks for 5G Internet of Things Scenario",
+            "abstract": "Fifth generation (5G) networks are the base communication technology for connecting objects in the Internet of Things (IoT) environment. 5G is being developed to provide extremely large capacity, robust integrity, high bandwidth, and low latency. With the development and innovating new techniques for 5G-IoT, it surely will drive to new enormous security and privacy challenges. Consequently, secure...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Network and Service Management",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Han Qiu",
+                    "normalizedName": "H. Qiu",
+                    "firstName": "Han",
+                    "lastName": "Qiu",
+                    "searchablePreferredName": "Han Qiu",
+                    "id": 37085358956
+                },
+                {
+                    "preferredName": "Meikang Qiu",
+                    "normalizedName": "M. Qiu",
+                    "firstName": "Meikang",
+                    "lastName": "Qiu",
+                    "searchablePreferredName": "Meikang Qiu",
+                    "id": 37085354318
+                },
+                {
+                    "preferredName": "Meiqin Liu",
+                    "normalizedName": "M. Liu",
+                    "firstName": "Meiqin",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Meiqin Liu",
+                    "id": 37401511300
+                },
+                {
+                    "preferredName": "Gerard Memmi",
+                    "normalizedName": "G. Memmi",
+                    "firstName": "Gerard",
+                    "lastName": "Memmi",
+                    "searchablePreferredName": "Gerard Memmi",
+                    "id": 37085352571
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6221020",
+            "publicationNumber": "6221020",
+            "doi": "10.1109/JBHI.2020.2973467",
+            "publicationYear": "2020",
+            "publicationDate": "Sept. 2020",
+            "isNumber": "9186373",
+            "ephemera": false,
+            "endPage": "2505",
+            "articleTitle": "Secure Health Data Sharing for Medical Cyber-Physical Systems for the Healthcare 4.0",
+            "documentLink": "/document/8995537/",
+            "volume": "24",
+            "pdfSize": "1957",
+            "articleNumber": "8995537",
+            "issue": "9",
+            "graphicalAbstract": {},
+            "startPage": "2499",
+            "citationCount": 163,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6221020&title=Secure+Health+Data+Sharing+for+Medical+Cyber-Physical+Systems+for+the+Healthcare+4.0&isbn=null&publicationDate=Sept.+2020&author=Han+Qiu%3B+Meikang+Qiu%3B+Meiqin+Liu%3B+Gerard+Memmi&ContentID=10.1109/JBHI.2020.2973467&orderBeanReset=true&startPage=2499&endPage=2505&volumeNum=24&issueNum=9",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/8995537/",
+            "downloadCount": 2846,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/8995537/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8995537",
+            "displayPublicationTitle": "IEEE Journal of Biomedical and Health Informatics",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Secure Health Data Sharing for Medical Cyber-Physical Systems for the Healthcare 4.0",
+            "abstract": "The recent spades of cyber attacks have compromised end-[::users::]&#39; data security and privacy in Medical Cyber-Physical Systems (MCPS) in the era of Health 4.0. Traditional standard encryption algorithms for data protection are designed based on a viewpoint of system architecture rather than a viewpoint of end-[::users::]. As such encryption algorithms are transferring the protection on the data ...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Journal of Biomedical and Health Informatics",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Huimin Lu",
+                    "normalizedName": "H. Lu",
+                    "firstName": "Huimin",
+                    "lastName": "Lu",
+                    "searchablePreferredName": "Huimin Lu",
+                    "id": 37533922000
+                },
+                {
+                    "preferredName": "Yin Zhang",
+                    "normalizedName": "Y. Zhang",
+                    "firstName": "Yin",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Yin Zhang",
+                    "id": 37085395354
+                },
+                {
+                    "preferredName": "Yujie Li",
+                    "normalizedName": "Y. Li",
+                    "firstName": "Yujie",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Yujie Li",
+                    "id": 38482077900
+                },
+                {
+                    "preferredName": "Chi Jiang",
+                    "normalizedName": "C. Jiang",
+                    "firstName": "Chi",
+                    "lastName": "Jiang",
+                    "searchablePreferredName": "Chi Jiang",
+                    "id": 37088512749
+                },
+                {
+                    "preferredName": "Haider Abbas",
+                    "normalizedName": "H. Abbas",
+                    "firstName": "Haider",
+                    "lastName": "Abbas",
+                    "searchablePreferredName": "Haider Abbas",
+                    "id": 37398417900
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available."
+            },
+            "openUrlTxt": "Find it in Library",
+            "openUrlImgLoc": "/assets/img/btn.find-in-library.png",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+            "publicationNumber": "6979",
+            "doi": "10.1109/TITS.2020.2991766",
+            "publicationYear": "2021",
+            "publicationDate": "June 2021",
+            "isNumber": "9444590",
+            "ephemera": false,
+            "endPage": "3532",
+            "articleTitle": "User-Oriented Virtual Mobile Network Resource Management for Vehicle Communications",
+            "documentLink": "/document/9097223/",
+            "volume": "22",
+            "pdfSize": "2320",
+            "articleNumber": "9097223",
+            "issue": "6",
+            "graphicalAbstract": {},
+            "startPage": "3521",
+            "citationCount": 156,
+            "vj": false,
+            "showDataset": false,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=User-Oriented+Virtual+Mobile+Network+Resource+Management+for+Vehicle+Communications&isbn=null&publicationDate=June+2021&author=Huimin+Lu%3B+Yin+Zhang%3B+Yujie+Li%3B+Chi+Jiang%3B+Haider+Abbas&ContentID=10.1109/TITS.2020.2991766&orderBeanReset=true&startPage=3521&endPage=3532&volumeNum=22&issueNum=6",
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9097223/",
+            "downloadCount": 1352,
+            "rightslinkFlag": true,
+            "citationsLink": "/document/9097223/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9097223",
+            "displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+            "isOnlineOnly": false,
+            "highlightedTitle": "[::User::]-Oriented Virtual Mobile Network Resource Management for Vehicle Communications",
+            "abstract": "Currently, advanced communications and networks greatly enhance [::user::] experiences and have a major impact on all aspects of people&#39;s lifestyles in terms of work, society, and the economy. However improving competitiveness and sustainable vehicle network services, such as higher [::user::] experience, considerable resource utilization and effective personalized services, is a great challenge. ...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Bader Alouffi",
+                    "normalizedName": "B. Alouffi",
+                    "firstName": "Bader",
+                    "lastName": "Alouffi",
+                    "searchablePreferredName": "Bader Alouffi",
+                    "id": 37088844932
+                },
+                {
+                    "preferredName": "Muhammad Hasnain",
+                    "normalizedName": "M. Hasnain",
+                    "firstName": "Muhammad",
+                    "lastName": "Hasnain",
+                    "searchablePreferredName": "Muhammad Hasnain",
+                    "id": 37087086637
+                },
+                {
+                    "preferredName": "Abdullah Alharbi",
+                    "normalizedName": "A. Alharbi",
+                    "firstName": "Abdullah",
+                    "lastName": "Alharbi",
+                    "searchablePreferredName": "Abdullah Alharbi",
+                    "id": 37088551756
+                },
+                {
+                    "preferredName": "Wael Alosaimi",
+                    "normalizedName": "W. Alosaimi",
+                    "firstName": "Wael",
+                    "lastName": "Alosaimi",
+                    "searchablePreferredName": "Wael Alosaimi",
+                    "id": 37085652823
+                },
+                {
+                    "preferredName": "Hashem Alyami",
+                    "normalizedName": "H. Alyami",
+                    "firstName": "Hashem",
+                    "lastName": "Alyami",
+                    "searchablePreferredName": "Hashem Alyami",
+                    "id": 37088447773
+                },
+                {
+                    "preferredName": "Muhammad Ayaz",
+                    "normalizedName": "M. Ayaz",
+                    "firstName": "Muhammad",
+                    "lastName": "Ayaz",
+                    "searchablePreferredName": "Muhammad Ayaz",
+                    "id": 37544716100
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+            "publicationNumber": "6287639",
+            "doi": "10.1109/ACCESS.2021.3073203",
+            "publicationYear": "2021",
+            "publicationDate": "2021",
+            "isNumber": "9312710",
+            "ephemera": false,
+            "endPage": "57807",
+            "articleTitle": "A Systematic Literature Review on Cloud Computing Security: Threats and Mitigation Strategies",
+            "documentLink": "/document/9404177/",
+            "volume": "9",
+            "pdfSize": "3163",
+            "articleNumber": "9404177",
+            "graphicalAbstract": {
+                "summary": "A graphical abstract of systematic literature review on cloud computing.",
+                "type": "graphic",
+                "file": "/ielx7/6287639/9312710/9404177/graphical_abstract/access-gagraphic-3073203.jpg",
+                "coverImage": "/ielx7/6287639/9312710/9404177/graphical_abstract/access-gagraphic-3073203.jpg"
+            },
+            "startPage": "57792",
+            "citationCount": 155,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9404177/",
+            "downloadCount": 52388,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9404177/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9404177",
+            "displayPublicationTitle": "IEEE Access",
+            "isOnlineOnly": false,
+            "highlightedTitle": "A Systematic Literature Review on Cloud Computing Security: Threats and Mitigation Strategies",
+            "abstract": "Cloud computing has become a widely exploited research area in academia and industry. Cloud computing benefits both cloud services providers (CSPs) and consumers. The security challenges associated with cloud computing have been widely studied in the literature. This systematic literature review (SLR) is aimed to review the existing research studies on cloud computing security, threats, and challe...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Access",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xiping Wu",
+                    "normalizedName": "X. Wu",
+                    "firstName": "Xiping",
+                    "lastName": "Wu",
+                    "searchablePreferredName": "Xiping Wu",
+                    "id": 38490662900
+                },
+                {
+                    "preferredName": "Mohammad Dehghani Soltani",
+                    "normalizedName": "M. D. Soltani",
+                    "firstName": "Mohammad Dehghani",
+                    "lastName": "Soltani",
+                    "searchablePreferredName": "Mohammad Dehghani Soltani",
+                    "id": 37086064835
+                },
+                {
+                    "preferredName": "Lai Zhou",
+                    "normalizedName": "L. Zhou",
+                    "firstName": "Lai",
+                    "lastName": "Zhou",
+                    "searchablePreferredName": "Lai Zhou",
+                    "id": 37088869289
+                },
+                {
+                    "preferredName": "Majid Safari",
+                    "normalizedName": "M. Safari",
+                    "firstName": "Majid",
+                    "lastName": "Safari",
+                    "searchablePreferredName": "Majid Safari",
+                    "id": 37313601600
+                },
+                {
+                    "preferredName": "Harald Haas",
+                    "normalizedName": "H. Haas",
+                    "firstName": "Harald",
+                    "lastName": "Haas",
+                    "searchablePreferredName": "Harald Haas",
+                    "id": 37269894900
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=9739",
+            "publicationNumber": "9739",
+            "doi": "10.1109/COMST.2021.3058296",
+            "publicationYear": "2021",
+            "publicationDate": "Secondquarter 2021",
+            "isNumber": "9438976",
+            "ephemera": false,
+            "endPage": "1420",
+            "articleTitle": "Hybrid LiFi and WiFi Networks: A Survey",
+            "documentLink": "/document/9351549/",
+            "volume": "23",
+            "pdfSize": "3941",
+            "articleNumber": "9351549",
+            "issue": "2",
+            "graphicalAbstract": {},
+            "startPage": "1398",
+            "citationCount": 155,
+            "vj": false,
+            "showDataset": false,
+            "showVideo": false,
+            "showAlgorithm": false,
+            "htmlLink": "/document/9351549/",
+            "downloadCount": 14864,
+            "rightslinkFlag": false,
+            "citationsLink": "/document/9351549/citations?tabFilter=papers",
+            "showHtml": true,
+            "contentType": "IEEE Journals",
+            "publisher": "IEEE",
+            "redline": false,
+            "handleProduct": false,
+            "showCheckbox": true,
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9351549",
+            "displayPublicationTitle": "IEEE Communications Surveys & Tutorials",
+            "isOnlineOnly": false,
+            "highlightedTitle": "Hybrid LiFi and WiFi Networks: A Survey",
+            "abstract": "In order to tackle the rapidly growing number of mobile devices and their expanding demands for Internet services, network convergence is envisaged to integrate different technology domains. For indoor wireless communications, one promising approach is to coordinate light fidelity (LiFi) and wireless fidelity (WiFi), namely hybrid LiFi and WiFi networks (HLWNets). This hybrid network combines the ...",
+            "articleContentType": "Journals",
+            "publicationTitle": "IEEE Communications Surveys & Tutorials",
+            "isImmersiveArticle": false,
+            "isJournalAndMagazine": true,
+            "isConference": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "docIdentifier": "IEEE Journals",
+            "isStandard": false,
+            "displayContentType": "Journal Article",
+            "isMagazine": false
+        }
+    ],
+    "breadCrumbs": [
+        {
+            "type": "search",
+            "children": [
+                {
+                    "value": "User behaviour",
+                    "reference": "User behaviour",
+                    "display": "User behaviour"
+                }
+            ]
+        },
+        {
+            "type": "range",
+            "key": "Year",
+            "reference": "2020_2025_Year",
+            "start": "2020",
+            "end": "2025"
+        }
+    ],
+    "showStandardDictionary": true,
+    "facets": [
+        {
+            "id": "ContentType",
+            "name": "Content Type",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "ContentType:Conferences",
+                    "name": "Conferences",
+                    "numRecords": 14172,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Journals",
+                    "name": "Journals",
+                    "numRecords": 4233,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Magazines",
+                    "name": "Magazines",
+                    "numRecords": 276,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Early Access Articles",
+                    "name": "Early Access Articles",
+                    "numRecords": 199,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Books",
+                    "name": "Books",
+                    "numRecords": 110,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Standards",
+                    "name": "Standards",
+                    "numRecords": 49,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationYear",
+            "name": "Year",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationYear:2020",
+                    "name": "2020",
+                    "numRecords": 3171,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2021",
+                    "name": "2021",
+                    "numRecords": 3398,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2022",
+                    "name": "2022",
+                    "numRecords": 3608,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2023",
+                    "name": "2023",
+                    "numRecords": 4460,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2024",
+                    "name": "2024",
+                    "numRecords": 4267,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2025",
+                    "name": "2025",
+                    "numRecords": 135,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Author",
+            "name": "Author",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Author:Wei Wang",
+                    "name": "Wei Wang",
+                    "numRecords": 33,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yang Liu",
+                    "name": "Yang Liu",
+                    "numRecords": 30,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Wei Zhang",
+                    "name": "Wei Zhang",
+                    "numRecords": 30,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yong Li",
+                    "name": "Yong Li",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Doni Purnama Alamsyah",
+                    "name": "Doni Purnama Alamsyah",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yang Li",
+                    "name": "Yang Li",
+                    "numRecords": 27,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Dusit Niyato",
+                    "name": "Dusit Niyato",
+                    "numRecords": 27,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yan Wang",
+                    "name": "Yan Wang",
+                    "numRecords": 27,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Ridho Bramulya Ikhsan",
+                    "name": "Ridho Bramulya Ikhsan",
+                    "numRecords": 27,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Mohsen Guizani",
+                    "name": "Mohsen Guizani",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Zhou Su",
+                    "name": "Zhou Su",
+                    "numRecords": 24,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Xin Wang",
+                    "name": "Xin Wang",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Zhu Han",
+                    "name": "Zhu Han",
+                    "numRecords": 21,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Meng Wang",
+                    "name": "Meng Wang",
+                    "numRecords": 21,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Hao Wang",
+                    "name": "Hao Wang",
+                    "numRecords": 20,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jie Zhang",
+                    "name": "Jie Zhang",
+                    "numRecords": 20,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Anderes Gui",
+                    "name": "Anderes Gui",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yan Zhang",
+                    "name": "Yan Zhang",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Wei Chen",
+                    "name": "Wei Chen",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Di Wu",
+                    "name": "Di Wu",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Qian Li",
+                    "name": "Qian Li",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Silvia Rossi",
+                    "name": "Silvia Rossi",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Erwin Halim",
+                    "name": "Erwin Halim",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Li Li",
+                    "name": "Li Li",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yu Wang",
+                    "name": "Yu Wang",
+                    "numRecords": 18,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Affiliation",
+            "name": "Affiliation",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Affiliation:School of Cyber Security, University of Chinese Academy of Sciences, Beijing, China",
+                    "name": "School of Cyber Security, University of Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 48,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Electrical Engineering, Southeast University, Nanjing, China",
+                    "name": "School of Electrical Engineering, Southeast University, Nanjing, China",
+                    "numRecords": 47,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Information Systems Department, School of Information Systems, Bina Nusantara University, Jakarta, Indonesia",
+                    "name": "Information Systems Department, School of Information Systems, Bina Nusantara University, Jakarta, Indonesia",
+                    "numRecords": 42,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China",
+                    "name": "Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 42,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Computer Science and Engineering, Nanyang Technological University, Singapore",
+                    "name": "School of Computer Science and Engineering, Nanyang Technological University, Singapore",
+                    "numRecords": 39,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Peng Cheng Laboratory, Shenzhen, China",
+                    "name": "Peng Cheng Laboratory, Shenzhen, China",
+                    "numRecords": 32,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China",
+                    "name": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China",
+                    "numRecords": 31,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Chinese Academy of Sciences, Beijing, China",
+                    "name": "University of Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Electrical Engineering, Zhejiang University, Hangzhou, China",
+                    "name": "College of Electrical Engineering, Zhejiang University, Hangzhou, China",
+                    "numRecords": 28,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Management Department, BINUS Online Learning, Bina Nusantara University, Jakarta, Indonesia",
+                    "name": "Management Department, BINUS Online Learning, Bina Nusantara University, Jakarta, Indonesia",
+                    "numRecords": 27,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Chitkara University Institute of Engineering and Technology, Chitkara University, Punjab, India",
+                    "name": "Chitkara University Institute of Engineering and Technology, Chitkara University, Punjab, India",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China",
+                    "name": "College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Beijing University of Posts and Telecommunications, Beijing, China",
+                    "name": "Beijing University of Posts and Telecommunications, Beijing, China",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Computer Science, Chongqing University, Chongqing, China",
+                    "name": "College of Computer Science, Chongqing University, Chongqing, China",
+                    "numRecords": 20,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Computer Science and Electronic Engineering, Hunan University, Changsha, China",
+                    "name": "College of Computer Science and Electronic Engineering, Hunan University, Changsha, China",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Intelligence and Computing, Tianjin University, Tianjin, China",
+                    "name": "College of Intelligence and Computing, Tianjin University, Tianjin, China",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:National Mobile Communications Research Laboratory, Southeast University, Nanjing, China",
+                    "name": "National Mobile Communications Research Laboratory, Southeast University, Nanjing, China",
+                    "numRecords": 19,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Information Science and Engineering, Northeastern University, Shenyang, China",
+                    "name": "College of Information Science and Engineering, Northeastern University, Shenyang, China",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
+                    "name": "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Alibaba Group, Hangzhou, China",
+                    "name": "Alibaba Group, Hangzhou, China",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Electrical Engineering, Sichuan University, Chengdu, China",
+                    "name": "College of Electrical Engineering, Sichuan University, Chengdu, China",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Cyber Science and Engineering, Southeast University, Nanjing, China",
+                    "name": "School of Cyber Science and Engineering, Southeast University, Nanjing, China",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China",
+                    "name": "School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, China",
+                    "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, China",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Computer Science and Engineering, Central South University, Changsha, China",
+                    "name": "School of Computer Science and Engineering, Central South University, Changsha, China",
+                    "numRecords": 18,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationTitle",
+            "name": "Publication Title",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationTitle:IEEE Access",
+                    "name": "IEEE Access",
+                    "numRecords": 1100,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Internet of Things Journal",
+                    "name": "IEEE Internet of Things Journal",
+                    "numRecords": 227,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Intelligent Transportation Systems",
+                    "name": "IEEE Transactions on Intelligent Transportation Systems",
+                    "numRecords": 189,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Visualization and Computer Graphics",
+                    "name": "IEEE Transactions on Visualization and Computer Graphics",
+                    "numRecords": 176,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Computational Social Systems",
+                    "name": "IEEE Transactions on Computational Social Systems",
+                    "numRecords": 159,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Knowledge and Data Engineering",
+                    "name": "IEEE Transactions on Knowledge and Data Engineering",
+                    "numRecords": 155,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Mobile Computing",
+                    "name": "IEEE Transactions on Mobile Computing",
+                    "numRecords": 115,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Vehicular Technology",
+                    "name": "IEEE Transactions on Vehicular Technology",
+                    "numRecords": 110,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Robotics and Automation Letters",
+                    "name": "IEEE Robotics and Automation Letters",
+                    "numRecords": 99,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Information Forensics and Security",
+                    "name": "IEEE Transactions on Information Forensics and Security",
+                    "numRecords": 77,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Network and Service Management",
+                    "name": "IEEE Transactions on Network and Service Management",
+                    "numRecords": 72,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Wireless Communications",
+                    "name": "IEEE Transactions on Wireless Communications",
+                    "numRecords": 68,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Dependable and Secure Computing",
+                    "name": "IEEE Transactions on Dependable and Secure Computing",
+                    "numRecords": 67,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Network Science and Engineering",
+                    "name": "IEEE Transactions on Network Science and Engineering",
+                    "numRecords": 61,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Industrial Informatics",
+                    "name": "IEEE Transactions on Industrial Informatics",
+                    "numRecords": 60,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Sensors Journal",
+                    "name": "IEEE Sensors Journal",
+                    "numRecords": 59,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+                    "name": "2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+                    "numRecords": 56,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Engineering Management",
+                    "name": "IEEE Transactions on Engineering Management",
+                    "numRecords": 54,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN)",
+                    "name": "2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN)",
+                    "numRecords": 53,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+                    "name": "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)",
+                    "numRecords": 50,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Services Computing",
+                    "name": "IEEE Transactions on Services Computing",
+                    "numRecords": 49,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Smart Grid",
+                    "name": "IEEE Transactions on Smart Grid",
+                    "numRecords": 48,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Systems Journal",
+                    "name": "IEEE Systems Journal",
+                    "numRecords": 43,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+                    "name": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+                    "numRecords": 42,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Network",
+                    "name": "IEEE Network",
+                    "numRecords": 42,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Publisher",
+            "name": "Publisher",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Publisher:IEEE",
+                    "name": "IEEE",
+                    "numRecords": 18730,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:IET",
+                    "name": "IET",
+                    "numRecords": 71,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:VDE",
+                    "name": "VDE",
+                    "numRecords": 42,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:TUP",
+                    "name": "TUP",
+                    "numRecords": 38,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:River Publishers",
+                    "name": "River Publishers",
+                    "numRecords": 34,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:Wiley",
+                    "name": "Wiley",
+                    "numRecords": 23,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:De Gruyter",
+                    "name": "De Gruyter",
+                    "numRecords": 18,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:CSEE",
+                    "name": "CSEE",
+                    "numRecords": 17,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:SGEPRI",
+                    "name": "SGEPRI",
+                    "numRecords": 12,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:MIT Press",
+                    "name": "MIT Press",
+                    "numRecords": 11,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:now",
+                    "name": "now",
+                    "numRecords": 11,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:OUP",
+                    "name": "OUP",
+                    "numRecords": 10,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:Packt Publishing",
+                    "name": "Packt Publishing",
+                    "numRecords": 8,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:PSPC",
+                    "name": "PSPC",
+                    "numRecords": 5,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:BIAI",
+                    "name": "BIAI",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:KICS",
+                    "name": "KICS",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:PTP",
+                    "name": "PTP",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:CIE",
+                    "name": "CIE",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:IEICE",
+                    "name": "IEICE",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:SAIEE",
+                    "name": "SAIEE",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "SupplementalItem",
+            "name": "Supplemental Items",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "SupplementalItem:Media",
+                    "name": "Media",
+                    "numRecords": 741,
+                    "active": "true"
+                },
+                {
+                    "id": "SupplementalItem:Datasets",
+                    "name": "Datasets",
+                    "numRecords": 37,
+                    "active": "true"
+                },
+                {
+                    "id": "SupplementalItem:Code",
+                    "name": "Code",
+                    "numRecords": 11,
+                    "active": "true"
+                },
+                {
+                    "id": "SupplementalItem:Video",
+                    "name": "Video",
+                    "numRecords": 8,
+                    "active": "true"
+                },
+                {
+                    "id": "SupplementalItem:Immersive Articles",
+                    "name": "Immersive Articles",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "ConferenceLocation",
+            "name": "Conference Location",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "ConferenceLocation:Shanghai, China",
+                    "name": "Shanghai, China",
+                    "numRecords": 234,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Chengdu, China",
+                    "name": "Chengdu, China",
+                    "numRecords": 232,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Coimbatore, India",
+                    "name": "Coimbatore, India",
+                    "numRecords": 198,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Chongqing, China",
+                    "name": "Chongqing, China",
+                    "numRecords": 181,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Las Vegas, NV, USA",
+                    "name": "Las Vegas, NV, USA",
+                    "numRecords": 176,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Orlando, FL, USA",
+                    "name": "Orlando, FL, USA",
+                    "numRecords": 171,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Singapore, Singapore",
+                    "name": "Singapore, Singapore",
+                    "numRecords": 157,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Bangalore, India",
+                    "name": "Bangalore, India",
+                    "numRecords": 147,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Xi'an, China",
+                    "name": "Xi'an, China",
+                    "numRecords": 147,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Guangzhou, China",
+                    "name": "Guangzhou, China",
+                    "numRecords": 142,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Beijing, China",
+                    "name": "Beijing, China",
+                    "numRecords": 140,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Chennai, India",
+                    "name": "Chennai, India",
+                    "numRecords": 138,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Atlanta, GA, USA",
+                    "name": "Atlanta, GA, USA",
+                    "numRecords": 131,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Kuala Lumpur, Malaysia",
+                    "name": "Kuala Lumpur, Malaysia",
+                    "numRecords": 123,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Melbourne, Australia",
+                    "name": "Melbourne, Australia",
+                    "numRecords": 123,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Dalian, China",
+                    "name": "Dalian, China",
+                    "numRecords": 120,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Hangzhou, China",
+                    "name": "Hangzhou, China",
+                    "numRecords": 120,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Greater Noida, India",
+                    "name": "Greater Noida, India",
+                    "numRecords": 119,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Bengaluru, India",
+                    "name": "Bengaluru, India",
+                    "numRecords": 105,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Shenyang, China",
+                    "name": "Shenyang, China",
+                    "numRecords": 102,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Madrid, Spain",
+                    "name": "Madrid, Spain",
+                    "numRecords": 100,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Nanjing, China",
+                    "name": "Nanjing, China",
+                    "numRecords": 97,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Montreal, QC, Canada",
+                    "name": "Montreal, QC, Canada",
+                    "numRecords": 96,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Bandung, Indonesia",
+                    "name": "Bandung, Indonesia",
+                    "numRecords": 93,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Wuhan, China",
+                    "name": "Wuhan, China",
+                    "numRecords": 93,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationTopics",
+            "name": "Publication Topics",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationTopics:User Behavior",
+                    "name": "User Behavior",
+                    "numRecords": 3072,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Machine Learning",
+                    "name": "Machine Learning",
+                    "numRecords": 1805,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Neural Network",
+                    "name": "Neural Network",
+                    "numRecords": 1753,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Internet Of Things",
+                    "name": "Internet Of Things",
+                    "numRecords": 1432,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Recommender Systems",
+                    "name": "Recommender Systems",
+                    "numRecords": 1380,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Convolutional Neural Network",
+                    "name": "Convolutional Neural Network",
+                    "numRecords": 1359,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Deep Learning",
+                    "name": "Deep Learning",
+                    "numRecords": 1305,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Learning Algorithms",
+                    "name": "Learning Algorithms",
+                    "numRecords": 1268,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Human-computer Interaction",
+                    "name": "Human-computer Interaction",
+                    "numRecords": 1223,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Social Media",
+                    "name": "Social Media",
+                    "numRecords": 1187,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Support Vector Machine",
+                    "name": "Support Vector Machine",
+                    "numRecords": 1112,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Recurrent Neural Network",
+                    "name": "Recurrent Neural Network",
+                    "numRecords": 986,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:User Experience",
+                    "name": "User Experience",
+                    "numRecords": 971,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Long Short-term Memory",
+                    "name": "Long Short-term Memory",
+                    "numRecords": 963,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:User Preferences",
+                    "name": "User Preferences",
+                    "numRecords": 954,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Social Networks",
+                    "name": "Social Networks",
+                    "numRecords": 783,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Collaborative Filtering",
+                    "name": "Collaborative Filtering",
+                    "numRecords": 778,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Decision Tree",
+                    "name": "Decision Tree",
+                    "numRecords": 653,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Random Forest",
+                    "name": "Random Forest",
+                    "numRecords": 639,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Anomaly Detection",
+                    "name": "Anomaly Detection",
+                    "numRecords": 630,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Deep Neural Network",
+                    "name": "Deep Neural Network",
+                    "numRecords": 627,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Electric Vehicles",
+                    "name": "Electric Vehicles",
+                    "numRecords": 626,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Service Quality",
+                    "name": "Service Quality",
+                    "numRecords": 609,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Mobile App",
+                    "name": "Mobile App",
+                    "numRecords": 608,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTopics:Machine Learning Models",
+                    "name": "Machine Learning Models",
+                    "numRecords": 607,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "StandardStatus",
+            "name": "Standard Status",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "StandardStatus:Inactive",
+                    "name": "Inactive",
+                    "numRecords": 25,
+                    "active": "true"
+                },
+                {
+                    "id": "StandardStatus:Active",
+                    "name": "Active",
+                    "numRecords": 24,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "StandardType",
+            "name": "Standard Type",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "StandardType:Standard Docs",
+                    "name": "Standard Docs",
+                    "numRecords": 47,
+                    "active": "true"
+                },
+                {
+                    "id": "StandardType:Whitepapers",
+                    "name": "Whitepapers",
+                    "numRecords": 2,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "StdDictionaryTerms",
+            "name": "Standards Dictionary Terms",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "StdDictionaryTerms:event",
+                    "name": "event",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:sample",
+                    "name": "sample",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:TEM cell",
+                    "name": "TEM cell",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:VIRC",
+                    "name": "VIRC",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:dBm",
+                    "name": "dBm",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:dBµA/m",
+                    "name": "dBµA/m",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:dBµV/m",
+                    "name": "dBµV/m",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:decibel (dB)",
+                    "name": "decibel (dB)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:device",
+                    "name": "device",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:dynamic range (DR)",
+                    "name": "dynamic range (DR)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:electromagnetic compatibility (EMC)",
+                    "name": "electromagnetic compatibility (EMC)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:electromagnetic interference (EMI)",
+                    "name": "electromagnetic interference (EMI)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:far field",
+                    "name": "far field",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:gasket (RF)",
+                    "name": "gasket (RF)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:measurement uncertainty",
+                    "name": "measurement uncertainty",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:mode stirred chamber (MSC)",
+                    "name": "mode stirred chamber (MSC)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:near field",
+                    "name": "near field",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:repeatability",
+                    "name": "repeatability",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:requirement",
+                    "name": "requirement",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:risk",
+                    "name": "risk",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:shielding effectiveness (SE)",
+                    "name": "shielding effectiveness (SE)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:specimen",
+                    "name": "specimen",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:AAD",
+                    "name": "AAD",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:AD",
+                    "name": "AD",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "StdDictionaryTerms:AD, AAD",
+                    "name": "AD, AAD",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        }
+    ],
+    "searchType": "basic",
+    "totalRecords": 19039,
+    "sortValue": "paper-citations",
+    "recordsPerPage": 25,
+    "startRecord": 0,
+    "subscribedContentApplied": false,
+    "promoApplied": false,
+    "endRecord": 25,
+    "totalPages": 762
+}
